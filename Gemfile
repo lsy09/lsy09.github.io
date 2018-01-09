@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-gem 'jekyll-sitemap'
-gem 'jekyll-feed'
-gem 'jekyll-gist'
-gem 'jekyll-watch'
+
+group :jekyll_plugins do
+  gem 'github-pages'
+end

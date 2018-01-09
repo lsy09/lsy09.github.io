@@ -1,65 +1,23 @@
-# Site
-title: youn_Blog
-description: Stylish, Two-Column Jekyll Theme
-url: https://lsy09.github.io
-logo: halve.png                                       # Site logo
-locale: en_US
+# Site settings
+title: "Joon: Roon for Jekyll"
+logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+email: your-email@domain.com
+description: > # this means to ignore newlines until "url:"
+  Roon was an excellent service, with a beautiful understated design. After
+  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
+  open sourced.<br> This is my Jekyll port of the Roon theme.
+url: "http://vormwald.github.io" # the base hostname & protocol for your site
+baseurl: "/joon" # the subpath of your site, e.g. /blog/
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Left Block Images
-background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
-  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
+permalink: pretty
+paginate: 5
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+# Build settings
+markdown: kramdown
+highlighter: rouge
 
-# Google Analytics
-#google-analytics: UA-XXXXX-Y
-
-# Social Links
-email:              tnwk09@gmail.com
-#google.plus:        username
-#twitter:            username
-#facebook:           username
-github:             lsy09
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
-
-# Gems
 gems:
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-gist
-
-# Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+  - jekyll-paginate
