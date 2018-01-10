@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intellij ToolTip "
+title: "Intellij ToolTip"
 image: false
 video: false
 ---
