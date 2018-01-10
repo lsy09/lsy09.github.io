@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   
-  <title>Welcome to Jekyll!</title>
-  <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
+  <title>Intellij JSON Fragment Edit 기능</title>
+  <meta name="description" content="Intellij JSON Fragment Edit 기능">
 
   <meta name="HandheldFriendly" content="True">
   <meta name="viewport" content="width=device-width initial-scale=1">
@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="/css/screen.css">
 
   
-  <link rel="canonical" href="http://localhost:4000/jekyll/update/2014/12/04/welcome-to-jekyll/">
+  <link rel="canonical" href="http://localhost:4000/2017/12/19/Intellij-toolTip/">
   <link rel="alternate" type="application/atom+xml" title="Youn: Java, Web Developer" href="http://localhost:4000/feed.xml" />
 
   <script type="text/javascript" src="/assets/javascripts/jquery-2.1.4.min.js"></script>
@@ -31,33 +31,76 @@
   <body class="">
 
     
-<div id="feature_image">
-  <div class="inner" style="background-image: url('/content/images//roon3.jpeg')">
-    <img src='/content/images/roon3.jpeg'>
-    </div>
-</div>
 
-
-<article role="main" class="image">
+<article role="main" class="">
     <header>
       <a href="/" id="home_link">«</a>
-      <div class="meta"><time datetime="2014-12-04"><a href="/jekyll/update/2014/12/04/welcome-to-jekyll/">December 04, 2014</a></time>
+      <div class="meta"><time datetime="2017-12-19"><a href="/2017/12/19/Intellij-toolTip/">December 19, 2017</a></time>
         <span class="count" id="js-reading-time">&nbsp;</span>
       </div>
-      <h1>Welcome to Jekyll!</h1>
+      <h1>Intellij JSON Fragment Edit 기능</h1>
     </header>
 
     <div class="text" id="js-post-content">
-        <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+        <p>Intellij JSON Fragment Edit 기능</p>
 
-<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<blockquote>
+  <p>Intellij 사용시 JSON을 편집 할 수 있는 <strong>JSON Fragment Edit 기능</strong> 제공</p>
+</blockquote>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<ol>
+  <li>
+    <p>JSON문자열을 넣을 String변수 선언. <br />
+<img src="/content/images/20171219/tip_01.png" alt="" /></p>
+  </li>
+  <li>
+    <p>변수의 값이 되는 <strong>”“</strong> 사이에 커서를 두고, <strong>alt+enter</strong>를 누르면 <strong>Inject language or reference 선택</strong> 시 아래와 같이 선택 리스트 생성 됨. <br />
+<img src="/content/images/20171219/tip_02.png" alt="" /></p>
+  </li>
+  <li>
+    <p>JSON 선택 시 아래와 같은 팝업 생성됨, 한번 더 <strong>alt+enter</strong>. <br />
+<img src="/content/images/20171219/tip_03.png" alt="" /></p>
+  </li>
+  <li>
+    <p><strong>//language=JSON</strong> 라는 주석이 생성. <br />
+<img src="/content/images/20171219/tip_04.png" alt="" /></p>
+  </li>
+  <li>
+    <p>다시 <strong>”“</strong> 사이에 커서를 두고, <strong>alt+enter</strong>를 누르면 메뉴가 나오는데 이때 <strong>Edit JSON Fragment</strong> 선택. <br />
+<img src="/content/images/20171219/tip_05.png" alt="" /></p>
+  </li>
+  <li>
+    <p>아래 이미지와 같은 JSON편집 화면 생성 됨. <br />
+<img src="/content/images/20171219/tip_06.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Fragment 편집 화면에서 JSON을 직접 편집하면 편집한 내용이 자동으로 변수에 값 변환이 되어서 적용 됨. <br />
+<img src="/content/images/20171219/tip_07.png" alt="" /></p>
+  </li>
+</ol>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span><br data-jekyll-commonmark-ghpages="" />  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span><br data-jekyll-commonmark-ghpages="" /><span class="k">end</span><br data-jekyll-commonmark-ghpages="" /><span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span><br data-jekyll-commonmark-ghpages="" /><span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<hr />
 
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://github.com/jekyll/jekyll-help">Jekyll’s dedicated Help repository</a>.</p>
+<blockquote>
+  <p>Inject Ianguage or reference 가 보이지 않을 때</p>
+</blockquote>
 
+<p><img src="/content/images/20171219/tip_08.png" alt="" /></p>
+
+<ol>
+  <li>
+    <p>command+enter -&gt; Editor -&gt; Intentions 선택. <br />
+<img src="/content/images/20171219/tip_09.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Language Injection 리스트 내에 있는 Inject language or reference 클릭 저장. <br />
+<img src="/content/images/20171219/tip_10.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Inject language or reference 선택 팝업 정상 생성. <br />
+<img src="/content/images/20171219/tip_11.png" alt="" /></p>
+  </li>
+</ol>
 
     </div>
 
@@ -66,7 +109,7 @@
         <span aria-hidden="true" data-icon="S"></span>
         <strong>Share</strong>
       </a>
-      <a href="http://twitter.com/share?text=Welcome+to+Jekyll%21&url=http://localhost:4000/jekyll/update/2014/12/04/welcome-to-jekyll/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" id="btn_comment" class="btn" target="_blank">
+      <a href="http://twitter.com/share?text=Intellij+JSON+Fragment+Edit+%EA%B8%B0%EB%8A%A5&url=http://localhost:4000/2017/12/19/Intellij-toolTip/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" id="btn_comment" class="btn" target="_blank">
         <span aria-hidden="true" data-icon="C"></span> Comment on Twitter
       </a>
     </menu>
@@ -130,7 +173,7 @@
                 </div>
 
                 <div id="pinit-btn">
-                    <a href="//pinterest.com/pin/create/button/?url=/jekyll/update/2014/12/04/welcome-to-jekyll/&amp;description=Welcome to Jekyll!-Youn: Java, Web Developer " data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
+                    <a href="//pinterest.com/pin/create/button/?url=/2017/12/19/Intellij-toolTip/&amp;description=Intellij JSON Fragment Edit 기능-Youn: Java, Web Developer " data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
                     <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
                 </div>
             </div>
