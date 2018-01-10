@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intellij JSON Fragment Edit 기능"
+title: "Intellij ToolTip "
 image: false
 video: false
 ---
