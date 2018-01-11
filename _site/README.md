@@ -1,33 +1,45 @@
-# Joon: Roon theme for Jekyll
+# Update 05/06/2016
 
-Jekyll theme based on the Roon for [Ghost](http://github.com/tryghost/roon/).
+Important! It's better to download the gzipped files instead of forking the repo. I would really appreciate if you could give me a star. 😁
 
-## Demo
-View this jekyll theme in action [here](https://vormwald.github.io/joon)
+This project is under MIT license, so feel free to make it your own.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/vormwald/joon/master/screenshot.png)
+# Leonids Jekyll Themes
 
-## Font Options
+**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
 
-This theme comes with two font options; a serif and sans-serif (the default). 
-Switching between them is done in the HTML, by adding `serif` to the `class` of 
-the `<body>` element in [head.html](https://github.com/vormwald/joon/blob/master/_layouts/default.html.hbs#L6).
+## What is Leonids?
 
-## Colour Options
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Simple and clear permalink structure.
+* Support for Disqus Comments.
+* Support for multi-authors.
+* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
 
-This theme uses an accent colour for links and the border at the top of pages.
+See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
 
-To change this colour, you need to edit [assets/css/screen.css](https://github.com/vormwald/joon/blob/master/assets/css/screen.css).
+## Quick setup
 
-There are only two values you need to change, conveniently **located at the very
-top of the file**.
+`git clone https://github.com/renyuanz/leonids`
 
-## For More Information
-For more on Jekyll, read the [documentation](http://jekyllrb.com/)
+`cd leonids`
 
+`jekyll server`
 
-## Copyright & License
+Check out your awesome blog at `http://localhost:4000` and Cheers!
 
-Roon is Copyright (c) 2013-2015 Sam Soffes & Ghost Foundation - Released under 
-the [MIT license](LICENSE).
+## Resume Page by [@Skn0tt](https://github.com/Skn0tt)
+Leonids features a simple resume page. It is divided up into five sections: 
+
+* Bio (Edit \_data/index/careers.yml)
+* Education (Edit \_data/index/education.yml)
+* Skills (Edit \_data/index/skills.yml)
+* Projects (Edit \_data/index/projects.yml)
+* About (Edit \_includes/sections/about.html)
+
+You can put all your info into these files, and they will be featured on the resume page.
+
+## TODO
+
+- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
+- [ ] Multi languages support.

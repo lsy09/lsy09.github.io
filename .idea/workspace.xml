@@ -2,10 +2,303 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="readme 수정">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_assign.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_color-lightness.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_flex-grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_golden-ratio.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_grid-width.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_modular-scale.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_px-to-em.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_px-to-rem.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_strip-units.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_tint-shade.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_transition-property-name.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/0aa37608beeb4a1ebebf38bb11a5fb390a5433a5/_unpack.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_convert-units.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_gradient-positions-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_is-num.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_linear-angle-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_linear-gradient-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_linear-positions-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_linear-side-corner-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_radial-arg-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_radial-gradient-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_radial-positions-parser.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_render-gradients.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_shape-size-stripper.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3b2e6f2bd512d8a623bd4a5b3a133871fd563767/_str-to-num.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/4b128e473be782390ee291502f6736b678ef4075/_neat-helpers.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/4b128e473be782390ee291502f6736b678ef4075/_neat.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/532ac9817c82797e20941655ee3c88dc98327c0d/_new-breakpoint.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/532ac9817c82797e20941655ee3c88dc98327c0d/_private.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/57391fb1a6e74ee2338bac72d90061b2911c27ed/_base.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/57391fb1a6e74ee2338bac72d90061b2911c27ed/_layout.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/57391fb1a6e74ee2338bac72d90061b2911c27ed/_syntax-highlighting.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_animations.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_badges.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_base.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_breadcrumbs.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_bullets.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_footnotes.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_grid-settings.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_helpers.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_layout.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_menu-navicons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_notices.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_reset.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_sliding-menu.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_syntax.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_tiles.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_toc.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5746bab45cc94da8d053043f98786bd1bdd59a9d/minima.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5d7af64c4e2bf1e3eec01151a51978df5d06a94f/_archive.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5d7af64c4e2bf1e3eec01151a51978df5d06a94f/_layout.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5d7af64c4e2bf1e3eec01151a51978df5d06a94f/_post.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/5d7af64c4e2bf1e3eec01151a51978df5d06a94f/_tags.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6e93d625ee1fb18fa168702bb8ef5012e8009886/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/6e93d625ee1fb18fa168702bb8ef5012e8009886/_visual-grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/74b39f78a1aa0a2433dd37a02f7251702fb8a74f/_bourbon-deprecated-upcoming.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/74b39f78a1aa0a2433dd37a02f7251702fb8a74f/_bourbon.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_animation.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_appearance.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_backface-visibility.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_background-image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_background.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_border-image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_border-radius.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_box-sizing.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_calc.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_columns.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_filter.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_flex-box.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_font-face.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_font-feature-settings.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_hidpi-media-query.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_hyphens.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_image-rendering.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_keyframes.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_linear-gradient.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_perspective.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_placeholder.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_radial-gradient.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_transform.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_transition.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c0007d1c46af9e445822c54a0bd0810180d4cfb4/_user-select.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_fill-parent.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_media.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_omega.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_outer-container.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_pad.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_private.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_reset.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_row.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_shift.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_span-columns.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_to-deprecate.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c3ddcaca953c07813a8cca4708e5406dfd0f14fd/_visual-grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_animated.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_bordered-pulled.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_core.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_fixed-width.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_icons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_larger.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_list.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_path.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_rotated-flipped.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_stacked.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d3dba6ad10738c36b31a3893da1cf4d1433a3bc2/font-awesome.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_button.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_clearfix.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_directional-values.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_ellipsis.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_font-family.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_hide-text.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_html5-input-types.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_position.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_prefixer.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_retina-image.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_size.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_timing-functions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_triangle.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/d70c8dca2ed92df66d9645bdad0213476dc03cad/_word-wrap.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_global.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_helpers.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_normalize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_syntax-highlighting.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_typography.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/dd6da5715d1f9ab505094a73972b6da1420d64e4/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/f72c8b9f8a86b1e55057562f446112cceeb5b0a8/_prefixer.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/f72c8b9f8a86b1e55057562f446112cceeb5b0a8/_px-to-em.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/careers.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/education.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/projects.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/skills.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_drafts/2011-03-10-sample-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_drafts/2012-05-22-readability-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_drafts/2013-05-23-readability-feature-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_drafts/2013-08-12-sample-link-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_drafts/2013-08-16-code-highlighting-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/disqus.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/nav.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/read_time.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/career.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/education.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/projects.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/skills.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sidebar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/social-links.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/post_listing.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/resume.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2011-03-10-sample-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-05-23-readability-feature-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-08-12-sample-link-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-08-18-welcome-to-jekyll.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_global.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_helpers.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_normalize.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_syntax-highlighting.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_typography.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/components/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/pages/_archive.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/pages/_layout.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/pages/_post.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/pages/_tags.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/archive/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/articles/2011-03/sample-post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/articles/2012-05/readability-post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/articles/2013-05/readability-feature-post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/articles/2013-08/code-highlighting-post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/articles/2013-08/sample-link-post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/articles/2015-08/welcome-to-jekyll.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/categories/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/img/avatar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/img/leonids-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/resume/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/tags/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/archive.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/main.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/avatar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/leonids-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resume.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tags.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-04-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-10-style-test.md" afterPath="$PROJECT_DIR$/temp/2014-12-10-style-test.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-26-welcom-test.md" afterPath="$PROJECT_DIR$/temp/2017-12-26-welcom-test.md" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/README_new.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/12/19/Intellij-toolTip/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
+      <change beforePath="$PROJECT_DIR$/_site/README_new.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/README_new/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/pictos_custom.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/pictos_custom.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/fonts/pictos_custom.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/javascripts/jquery-2.1.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_04.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_06.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_07.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_09.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/20171219/tip_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/header.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/joon-big.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/joon-small.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/content/images/roon3.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/css/screen.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/temp/2014-12-04-welcome-to-jekyll/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/temp/2014-12-10-style-test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/temp/2017-12-26-welcom-test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/about.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/pictos_custom.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/pictos_custom.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/pictos_custom.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/jquery-2.1.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_04.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_06.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_07.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_09.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/20171219/tip_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/header.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/joon-big.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/joon-small.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/content/images/roon3.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/screen.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_drafts/2015-08-18-welcome-to-jekyll.md" />
+      <change beforePath="$PROJECT_DIR$/temp/2014-12-10-style-test.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/temp/2017-12-26-welcom-test.md" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,52 +308,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="277">
+              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-12-04-welcome-to-jekyll.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-26-welcom-test.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/2017-12-26-welcom-test.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="533">
-                <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="69" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-19-Intellij-toolTip.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="734">
-                <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="576" column="38" lean-forward="false" selection-start-line="576" selection-start-column="38" selection-end-line="576" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +349,12 @@
       <find>Youn:</find>
       <find>Youn: Java, Web DeveloperYoun: Java, Web Developerlocalhost:4000Published with JekyllSource code</find>
       <find>site.baseurl</find>
+      <find>SHARE</find>
+      <find>Tweet Button&quot;</find>
+      <find>btn_share</find>
+      <find>leonids-logo.png</find>
+      <find>cover-card</find>
+      <find>.cover</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,10 +379,11 @@
         <option value="$PROJECT_DIR$/_layouts/post-list.html" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_site/feed.xml" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-12-04-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-12-26-welcom-test.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_site/css/main.css" />
       </list>
     </option>
   </component>
@@ -122,11 +393,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1440" />
-    <option name="y" value="-315" />
-    <option name="width" value="2560" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-76" />
+    <option name="y" value="25" />
+    <option name="width" value="2555" />
+    <option name="height" value="842" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -143,9 +414,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,34 +425,21 @@
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,11 +449,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/temp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_posts/Intellij" />
+      <recent name="$PROJECT_DIR$/temp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -315,18 +573,38 @@
       <workItem from="1515484137922" duration="15000" />
       <workItem from="1515484189171" duration="2884000" />
       <workItem from="1515559154991" duration="83000" />
-      <workItem from="1515571140201" duration="954000" />
+      <workItem from="1515571140201" duration="3645000" />
+      <workItem from="1515630955581" duration="2716000" />
+      <workItem from="1515648310659" duration="338000" />
+      <workItem from="1515652260278" duration="7000" />
+      <workItem from="1515659062987" duration="3018000" />
     </task>
+    <task id="LOCAL-00001" summary="title 수정">
+      <created>1515573062544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515573062544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="title 수정">
+      <created>1515573568190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515573568190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8595000" />
+    <option name="totallyTimeSpent" value="17365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-315" width="2560" height="1417" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -334,10 +612,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33024693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5472637" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14813344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -350,7 +628,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -380,7 +657,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme 수정" />
+    <MESSAGE value="title 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="title 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -389,34 +667,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/2017-12-26-welcom-test.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown" />
+    <entry file="file://$PROJECT_DIR$/temp/2017-12-26-welcom-test.md" />
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -435,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,21 +725,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/_sass/_site.scss" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README_old.md" />
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -496,36 +749,12 @@
     <entry file="file://$PROJECT_DIR$/_layouts/home.html" />
     <entry file="file://$PROJECT_DIR$/_site/toolTip-Fragment-Edit/index.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-26-toolTip-Fragment-Edit.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README_old.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-26-toolTip-Fragment-Edit.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README_old.md" />
     <entry file="file://$PROJECT_DIR$/_layouts/compress.html" />
     <entry file="file://$PROJECT_DIR$/assets/_sass/_site.scss" />
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml" />
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -550,14 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -569,44 +790,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-26-welcome-to-Youn.md" />
+    <entry file="file://$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown" />
+    <entry file="file://$PROJECT_DIR$/temp/2017-12-26-welcom-test.md" />
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="277">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/2014-12-04-welcome-to-jekyll.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_site/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/2017-12-26-welcom-test.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="533">
-            <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="69" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="734">
-            <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_site/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="576" column="38" lean-forward="false" selection-start-line="576" selection-start-column="38" selection-end-line="576" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

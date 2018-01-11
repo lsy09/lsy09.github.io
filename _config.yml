@@ -1,24 +1,67 @@
-# Site settings
-title: "Youn: Java, Web Developer"
-logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Youn's
 email: tnwk09@gmail.com
-description: > # this means to ignore newlines until "url:"
-  Java, Web Developer
-#  Roon was an excellent service, with a beautiful understated design. After
-#  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
-#  open sourced.<br> This is my Jekyll port of the Roon theme.
-url: "http://lsy09.github.io" # the base hostname & protocol for your site
-# baseurl: "/joon" # the subpath of your site, e.g. /blog/
-twitter_username: jekyllrb
-github_username:  jekyll
+description: A simple and awesome blog theme powered by jekyll.
+url: # https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+keywords: ["Programming", "JAVA", "SQL", "WEB"]
 
-permalink: pretty
-paginate: 5
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Youn's
+#  avatar: leonids-logo.png
+  job: "PHP & Ruby Developer"
+  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  email: tnwk09@gmail.com
+#  disqus-shortname: renyuanzblog
+#  twitter: renyuan814 #username
+  facebook: tnwk09@gmail.com #username
+  google:
+    plus: #username
+    analytics: #UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: lsy09 #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#  linkedin: renyuan-zou-69b7038a #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username
