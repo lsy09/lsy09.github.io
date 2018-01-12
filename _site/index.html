@@ -10,30 +10,30 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="A simple and awesome blog theme powered by jekyll.">
   <meta name="keywords" content="Programming, JAVA, SQL, and WEB">
-  <meta name="author" content="Youn's">
+  <meta name="author" content="YOUN's">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#f5f5f5">
+  <meta name="theme-color" content="#E7DCD9">
 
   <!-- Twitter Tags -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Youn's">
+  <meta name="twitter:title" content="YOUN's">
   <meta name="twitter:description" content="A simple and awesome blog theme powered by jekyll.">
   <meta name="twitter:image" content="http://localhost:4000/img/leonids-logo.png">
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="blog">
   <meta property="og:url" content="http://localhost:4000">
-  <meta property="og:title" content="Youn's">
+  <meta property="og:title" content="YOUN's">
   <meta property="og:description" content="A simple and awesome blog theme powered by jekyll.">
   <meta property="og:image" content="http://localhost:4000/img/leonids-logo.png">
-  <title>Youn's</title>
+  <title>YOUN's</title>
 
   <!-- CSS files -->
   <link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css">
   <link rel="stylesheet" href="http://localhost:4000/css/main.css">
 
   <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="Youn's" href="http://localhost:4000 /feed.xml " />
+  <link rel="alternate" type="application/rss+xml" title="YOUN's" href="http://localhost:4000 /feed.xml " />
 
   <!-- Icons -->
   <!-- 16x16 -->
@@ -51,9 +51,9 @@
 
 <div class="cover-card table-cell table-middle">
   
-  <a href="http://localhost:4000/" class="author_name">Youn's</a>
-  <span class="author_job">PHP & Ruby Developer</span>
-  <span class="author_bio mbm">A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France.</span>
+  <a href="http://localhost:4000/" class="author_name">YOUN's</a>
+  <span class="author_job">JAVA & WEB DEVELOPER</span>
+  <span class="author_bio mbm"></span>
   <nav class="nav">
     <ul class="nav-list">
       <li class="nav-item">
@@ -144,18 +144,18 @@
   <header class="post-header">
     <p class="post-meta">
       <span class="post-date">
-        18 AUG 2015
+        19 DEC 2017
       </span>
       
       •
       
-        <a class="post-cat" href="http://localhost:4000/categories/#tutorial">tutorial</a>
+        <a class="post-cat" href="http://localhost:4000/categories/#tool">tool</a>
         
       
       
     </p>
     <h4>
-      <a href="http://localhost:4000/articles/2015-08/welcome-to-jekyll" class="post-title" title="Welcome to Jekyll!">Welcome to Jekyll!</a>
+      <a href="http://localhost:4000/articles/2017-12/Intellij-toolTip" class="post-title" title="Intellij ToolTip">Intellij ToolTip</a>
       
     </h4>
 
@@ -166,228 +166,77 @@
     
     <div class="post-description">
       <p>
-        <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+        <p>Intellij JSON Fragment Edit 기능</p>
 
-<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<blockquote>
+  <p>Intellij 사용시 JSON을 편집 할 수 있는 <strong>JSON Fragment Edit 기능</strong> 제공</p>
+</blockquote>
 
+<ol>
+  <li>
+    <p>JSON문자열을 넣을 String변수 선언. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_01.png" alt="" /></p>
+  </li>
+  <li>
+    <p>변수의 값이 되는 <strong>”“</strong> 사이에 커서를 두고, <strong>alt+enter</strong>를 누르면 <strong>Inject language or reference 선택</strong> 시 아래와 같이 선택 리스트 생성 됨. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_02.png" alt="" /></p>
+  </li>
+  <li>
+    <p>JSON 선택 시 아래와 같은 팝업 생성됨, 한번 더 <strong>alt+enter</strong>. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_03.png" alt="" /></p>
+  </li>
+  <li>
+    <p><strong>//language=JSON</strong> 라는 주석이 생성. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_04.png" alt="" /></p>
+  </li>
+  <li>
+    <p>다시 <strong>”“</strong> 사이에 커서를 두고, <strong>alt+enter</strong>를 누르면 메뉴가 나오는데 이때 <strong>Edit JSON Fragment</strong> 선택. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_05.png" alt="" /></p>
+  </li>
+  <li>
+    <p>아래 이미지와 같은 JSON편집 화면 생성 됨. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_06.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Fragment 편집 화면에서 JSON을 직접 편집하면 편집한 내용이 자동으로 변수에 값 변환이 되어서 적용 됨. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_07.png" alt="" /></p>
+  </li>
+</ol>
+
+<hr />
+
+<blockquote>
+  <p>Inject Ianguage or reference 가 보이지 않을 때</p>
+</blockquote>
+
+<p><img src="lsy09.github.io/img/20171219/content/images/20171219/tip_08.png" alt="" /></p>
+
+<ol>
+  <li>
+    <p>command+enter -&gt; Editor -&gt; Intentions 선택. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_09.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Language Injection 리스트 내에 있는 Inject language or reference 클릭 저장. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_10.png" alt="" /></p>
+  </li>
+  <li>
+    <p>Inject language or reference 선택 팝업 정상 생성. <br />
+<img src="lsy09.github.io/img/20171219/content/images/20171219/tip_11.png" alt="" /></p>
+  </li>
+</ol>
 
       </p>
     </div>
     
 
-    
-
-</section>
-
-<section class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <span class="post-date">
-        16 AUG 2013
-      </span>
-      
-      •
-      
-        <a class="post-cat" href="http://localhost:4000/categories/#code">code</a>
-        
-      
-      
-    </p>
-    <h4>
-      <a href="http://localhost:4000/articles/2013-08/code-highlighting-post" class="post-title" title="Syntax Highlighting Post">Syntax Highlighting Post</a>
-      
-    </h4>
-
-    
-
-    </header>
-
-    
-    <div class="post-description">
-      <p>
-        Demo post displaying the various ways of highlighting code in Markdown.
-      </p>
-    </div>
-    
-
-    
-
-</section>
-
-<section class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <span class="post-date">
-        12 AUG 2013
-      </span>
-      
-      •
-      
-        <a class="post-cat" href="http://localhost:4000/categories/#link post">link post</a>
-        
-      
-      
-    </p>
-    <h4>
-      <a href="http://localhost:4000/articles/2013-08/sample-link-post" class="post-title" title="Sample Link Post">Sample Link Post</a>
-      
-      <a class="post-title-link" href="http://renyuanz.github.io" target="_blank" title="Sample Link Post"><i class="fa fa-external-link"></i></a>
-      
-    </h4>
-
-    
-
-    </header>
-
-    
-    <div class="post-description">
-      <p>
-        Try click on the link icon.
-      </p>
-    </div>
-    
-
-    
-
-</section>
-
-<section class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <span class="post-date">
-        23 MAY 2013
-      </span>
-      
-      •
-      
-        <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a>
-        
-        <span>/</span>
-        
-      
-        <a class="post-cat" href="http://localhost:4000/categories/#feature photo">feature photo</a>
-        
-      
-      
-    </p>
-    <h4>
-      <a href="http://localhost:4000/articles/2013-05/readability-feature-post" class="post-title" title="Post with Large Feature Image and Text">Post with Large Feature Image and Text</a>
-      
-    </h4>
-
-    
-
-    </header>
-
-    
-    <div class="post-description">
-      <p>
-        Custom written post descriptions are the way to go... if you're not lazy.
-      </p>
-    </div>
-    
-
-    
-    <div class="post-image-feature">
-      <img src=
-      
-      "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250"
-      
-      alt="Post with Large Feature Image and Text feature image">
-
-      
-      <span class="image-credit">Photo Credit: <a href="https://unsplash.com/photos/oMpAz-DN-9I">Greg Rakozy</a></span>
-      
-    </div><!-- /.image-wrap -->
-    
-
-</section>
-
-<section class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <span class="post-date">
-        22 MAY 2012
-      </span>
-      
-      •
-      
-        <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a>
-        
-      
-      
-    </p>
-    <h4>
-      <a href="http://localhost:4000/articles/2012-05/readability-post" class="post-title" title="Testing Readability with a Bunch of Text">Testing Readability with a Bunch of Text</a>
-      
-    </h4>
-
-    
-
-    </header>
-
-    
-    <div class="post-description">
-      <p>
-        A ton of text to test readability.
-      </p>
-    </div>
-    
-
-    
-
-</section>
-
-<section class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <span class="post-date">
-        10 MAR 2011
-      </span>
-      
-      •
-      
-        <a class="post-cat" href="http://localhost:4000/categories/#hello world">hello world</a>
-        
-      
-      
-    </p>
-    <h4>
-      <a href="http://localhost:4000/articles/2011-03/sample-post" class="post-title" title="Sample Post">Sample Post</a>
-      
-    </h4>
-
-    
-
-    </header>
-
-    
-    <div class="post-description">
-      <p>
-        Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.
-      </p>
-    </div>
-    
-
-    
-    <div class="post-image-feature">
-      <img src=
-      
-      "https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250"
-      
-      alt="Sample Post feature image">
-
-      
-      <span class="image-credit">Photo Credit: <a href="https://unsplash.com/photos/Ki0dpxd3LGc">thomas shellberg</a></span>
-      
-    </div><!-- /.image-wrap -->
     
 
 </section>
 
 
         <footer>
-  &copy; 2018 Youn's. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a> made with <i class="fa fa-heart heart-icon"></i>
+  &copy; 2018 YOUN's. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a> made with <i class="fa fa-heart heart-icon"></i>
 </footer>
 
       </div>

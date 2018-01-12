@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Youn's
+title: YOUN's
 email: tnwk09@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # https://renyuanz.github.io/leonids # the base hostname & protocol for your site
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Youn's
+  name: YOUN's
 #  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  job: "JAVA & WEB DEVELOPER"
+#  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
   email: tnwk09@gmail.com
 #  disqus-shortname: renyuanzblog
 #  twitter: renyuan814 #username
