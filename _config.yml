@@ -5,7 +5,7 @@
 #
 title: YOUN's
 email: tnwk09@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
+description: A simple and awesome blog.
 url: # https://renyuanz.github.io/leonids # the base hostname & protocol for your site
 keywords: ["Programming", "JAVA", "SQL", "WEB"]
 
@@ -18,7 +18,7 @@ timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         :title
 
 kramdown:
   auto_ids: true
