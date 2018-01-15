@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-Intellij JSON Fragment Edit 기능
+# Intellij JSON Fragment Edit 기능
 
 
 > Intellij 사용시 JSON을 편집 할 수 있는 **JSON Fragment Edit 기능** 제공
