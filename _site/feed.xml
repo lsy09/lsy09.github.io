@@ -5,9 +5,31 @@
     <description>Youn's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jan 2018 14:08:03 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 14:08:03 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 14:44:53 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 14:44:53 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>RESTful API</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;월드 와이드 웹(World Wide Web a.k.a WWW)과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식으로 자원을 정의하고 자원에 대한 주소를 지정하는 방법 전반에 대한 패턴&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;REST&lt;/code&gt;란, REpresentational State Transfer의 약자이다. 여기에&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Dec 2017 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/java/2017/12/21/RESTful-API.html</link>
+        <guid isPermaLink="true">http://localhost:4000/java/2017/12/21/RESTful-API.html</guid>
+        
+        <category>RESTful</category>
+        
+        <category>API</category>
+        
+        
+        <category>Java</category>
+        
+      </item>
     
       <item>
         <title>code snippet test</title>
