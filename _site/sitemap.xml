@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://localhost:4000/java/2017/12/21/RESTful-API.html</loc>
+        <loc>http://localhost:4000/web/2018/01/22/RESTful-API.html</loc>
+    </url>
+
+
+    <url>
+        <loc>http://localhost:4000/2017-01-31-3-steps-to-setup-website-with-Jalpc.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/java/2017/12/21/test-code-snippets.html</loc>
+        <loc>http://localhost:4000/2017-12-21-test-code-snippets.html</loc>
     </url>
-
-    <url>
-        <loc>http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</loc>
-    </url>
-
 
     <url>
         <loc>http://localhost:4000/404.html</loc>
@@ -72,6 +72,10 @@
 
     <url>
         <loc>http://localhost:4000/sitemap.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/web/</loc>
     </url>
 
     <url>
