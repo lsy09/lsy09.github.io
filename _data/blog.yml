@@ -6,11 +6,11 @@
 - name: Java
   href: /java/
 
-#- name: Linux
-#  href: /linux/
+- name: Web
+  href: /web/
 
-- name: HTML
-  href: /html/
+#- name: HTML
+#  href: /html/
 
 #- name: Database
 #  href: /database/

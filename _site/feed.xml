@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Youn's Blog</title>
+    <title>Youn's</title>
     <description>Youn's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jan 2018 18:02:47 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 18:02:47 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 18:27:01 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 18:27:01 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -42,7 +42,7 @@ Last-Modifiend태그나 E-Tag를 이용하면 캐싱 구현이 가능하다.&lt;
         <category>API</category>
         
         
-        <category>WEB</category>
+        <category>Web</category>
         
       </item>
     

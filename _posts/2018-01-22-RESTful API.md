@@ -4,9 +4,9 @@ title:  "RESTful API"
 date:   2018-01-22
 desc: "RESTful API에 대한 정의"
 keywords: "RESTful,API"
-categories: [WEB]
+categories: [Web]
 tags: [RESTful,API]
-icon: icon-java
+icon: fa-edge
 ---
 
 
