@@ -6,7 +6,7 @@ desc: "RESTful API에 대한 정의"
 keywords: "RESTful,API"
 categories: [Web]
 tags: [RESTful,API]
-icon: fa-internet-explore
+icon: fa-edge
 ---
 
 
