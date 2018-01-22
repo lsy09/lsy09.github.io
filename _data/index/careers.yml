@@ -1,16 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name:
+    detail: Company A
+    i18n: company_a
+  desc:
+    detail: I worked at Company A ...
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_a_date
+  job:
+    detail: CTO
+    i18n: company_a_job
+  icon: fa-plus-square
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
-
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name:
+    detail: Company B
+    i18n: company_b
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square

@@ -4,19 +4,822 @@
     <option name="SCOPE_TYPE" value="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="po">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap1.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap2.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-chap4.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-chap5.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-chap6.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-08-Java8-in-Action-chap8.md" />
+    <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/blog.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/donation/alipay.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/donation/donationlist.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/donation/wechat_pay.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/banners.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/language.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/index/links.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/landing.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/blog_header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/carousel.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/category.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/comments.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/donate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/foot.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/index_foot.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/index_head.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/pagination.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/blog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/sections/links.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/share.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/blog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/compress.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-01-31-3-steps-to-setup-website-with-Jalpc.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-21-test-code-snippets.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_open_sans.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_pygments.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_roboto.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_search.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_sass/_style.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/CNAME" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/blog/database.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/blog/donate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/blog/life.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/blog/linux.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/blog/mac.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/build/build.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/build/files.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/html/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/java/2017/12/21/test-code-snippets.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/java/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/readme_files/Jalpc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/readme_files/blog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/readme_files/search.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/readme_files/share.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/search.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/app-20171204.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/app-20171204.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/blog-20171204.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/font-mfizz.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/font-mfizz.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/font-mfizz.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/font-mfizz.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/i18-20171204.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/blog/3steps/edit.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/default.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/alipay.1.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/alipay.10.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/alipay.5.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/alipay.50.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/alipay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/wechat.1.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/wechat.10.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/wechat.5.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/wechat.50.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/donate/wechat.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Abkhazia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Afghanistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Aland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Albania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Algeria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/American-Samoa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Andorra.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Angola.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Anguilla.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Antarctica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Antigua-and-Barbuda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Argentina.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Armenia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Aruba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Australia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Austria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Azerbaijan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bahamas.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bahrain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bangladesh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Barbados.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Basque-Country.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Belarus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Belgium.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Belize.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Benin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bermuda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bhutan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bolivia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bosnia-and-Herzegovina.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Botswana.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Brazil.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/British-Antarctic-Territory.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/British-Virgin-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Brunei.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Bulgaria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Burkina-Faso.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Burundi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cambodia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cameroon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Canada.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Canary-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cape-Verde.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cayman-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Central-African-Republic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Chad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Chile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/China.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Christmas-Island.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cocos-Keeling-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Colombia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Commonwealth.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Comoros.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cook-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Costa-Rica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cote-dIvoire.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Croatia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cuba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Curacao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Cyprus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Czech-Republic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Democratic-Republic-of-the-Congo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Denmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Djibouti.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Dominica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Dominican-Republic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/East-Timor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Ecuador.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Egypt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/El-Salvador.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/England.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Equatorial-Guinea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Eritrea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Estonia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Ethiopia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/European-Union.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Falkland-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Faroes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Fiji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Finland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/France.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/French-Polynesia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/French-Southern-Territories.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Gabon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Gambia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Georgia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Germany.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Ghana.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Gibraltar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/GoSquared.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Greece.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Greenland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Grenada.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Guam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Guatemala.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Guernsey.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Guinea-Bissau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Guinea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Guyana.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Haiti.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Honduras.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Hong-Kong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Hungary.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Iceland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/India.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Indonesia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Iran.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Iraq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Ireland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Isle-of-Man.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Israel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Italy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Jamaica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Japan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Jersey.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Jordan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Kazakhstan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Kenya.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Kiribati.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Kosovo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Kuwait.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Kyrgyzstan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Laos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Latvia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Lebanon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Lesotho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Liberia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Libya.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Liechtenstein.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Lithuania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Luxembourg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Macau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Macedonia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Madagascar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Malawi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Malaysia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Maldives.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mali.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Malta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mars.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Marshall-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Martinique.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mauritania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mauritius.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mayotte.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mexico.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Micronesia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Moldova.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Monaco.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mongolia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Montenegro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Montserrat.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Morocco.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Mozambique.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Myanmar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/NATO.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Nagorno-Karabakh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Namibia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Nauru.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Nepal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Netherlands-Antilles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Netherlands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/New-Caledonia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/New-Zealand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Nicaragua.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Niger.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Nigeria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Niue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Norfolk-Island.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/North-Korea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Northern-Cyprus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Northern-Mariana-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Norway.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Olympics.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Oman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Pakistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Palau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Palestine.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Panama.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Papua-New-Guinea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Paraguay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Peru.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Philippines.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Pitcairn-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Poland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Portugal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Puerto-Rico.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Qatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Red-Cross.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Republic-of-the-Congo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Romania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Russia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Rwanda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saint-Barthelemy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saint-Helena.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saint-Kitts-and-Nevis.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saint-Lucia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saint-Martin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saint-Vincent-and-the-Grenadines.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Samoa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/San-Marino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Sao-Tome-and-Principe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Saudi-Arabia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Scotland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Senegal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Serbia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Seychelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Sierra-Leone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Singapore.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Slovakia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Slovenia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Solomon-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Somalia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Somaliland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/South-Africa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/South-Georgia-and-the-South-Sandwich-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/South-Korea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/South-Ossetia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/South-Sudan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Spain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Sri-Lanka.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Sudan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Suriname.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Swaziland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Sweden.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Switzerland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Syria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Taiwan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Tajikistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Tanzania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Thailand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Togo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Tokelau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Tonga.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Trinidad-and-Tobago.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Tunisia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Turkey.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Turkmenistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Turks-and-Caicos-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Tuvalu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/US-Virgin-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Uganda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Ukraine.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/United-Arab-Emirates.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/United-Kingdom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/United-Nations.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/United-States.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Unknown.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Uruguay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Uzbekistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Vanuatu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Vatican-City.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Venezuela.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Vietnam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Wales.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Wallis-And-Futuna.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Western-Sahara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Yemen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Zambia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/flags/Zimbabwe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/avatar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/avatar_all.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/google.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/header_one.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/header_two.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/jekyll.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/python.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/shattered.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/landing/word_map.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/search/cb-close.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/assets/img/search/cb-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/css/custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/bs3-typeahead.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/count.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/github_api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/github_api.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/i18next.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/jPages.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/js.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/localization.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/scroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/js/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/locales/en.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/locales/zh.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/ajax-loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/fonts/slick.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/fonts/slick.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/fonts/slick.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/fonts/slick.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/slick-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/slick.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/static/slick/slick.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/blog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/database.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/donate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/html.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/java.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/life.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/linux.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/blog/mac.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/build.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/files.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme_files/Jalpc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme_files/blog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme_files/search.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme_files/share.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/search.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/sitemap.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/app-20171204.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/app-20171204.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/blog-20171204.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-mfizz.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-mfizz.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-mfizz.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/font-mfizz.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/i18-20171204.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/blog/3steps/edit.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/default.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/alipay.1.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/alipay.10.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/alipay.5.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/alipay.50.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/alipay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/wechat.1.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/wechat.10.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/wechat.5.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/wechat.50.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/donate/wechat.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Abkhazia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Afghanistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Aland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Albania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Algeria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/American-Samoa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Andorra.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Angola.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Anguilla.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Antarctica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Antigua-and-Barbuda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Argentina.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Armenia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Aruba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Australia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Austria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Azerbaijan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bahamas.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bahrain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bangladesh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Barbados.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Basque-Country.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Belarus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Belgium.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Belize.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Benin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bermuda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bhutan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bolivia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bosnia-and-Herzegovina.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Botswana.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Brazil.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/British-Antarctic-Territory.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/British-Virgin-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Brunei.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Bulgaria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Burkina-Faso.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Burundi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cambodia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cameroon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Canada.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Canary-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cape-Verde.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cayman-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Central-African-Republic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Chad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Chile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/China.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Christmas-Island.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cocos-Keeling-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Colombia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Commonwealth.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Comoros.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cook-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Costa-Rica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cote-dIvoire.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Croatia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cuba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Curacao.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Cyprus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Czech-Republic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Democratic-Republic-of-the-Congo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Denmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Djibouti.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Dominica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Dominican-Republic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/East-Timor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Ecuador.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Egypt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/El-Salvador.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/England.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Equatorial-Guinea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Eritrea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Estonia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Ethiopia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/European-Union.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Falkland-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Faroes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Fiji.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Finland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/France.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/French-Polynesia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/French-Southern-Territories.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Gabon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Gambia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Georgia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Germany.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Ghana.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Gibraltar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/GoSquared.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Greece.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Greenland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Grenada.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Guam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Guatemala.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Guernsey.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Guinea-Bissau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Guinea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Guyana.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Haiti.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Honduras.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Hong-Kong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Hungary.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Iceland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/India.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Indonesia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Iran.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Iraq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Ireland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Isle-of-Man.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Israel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Italy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Jamaica.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Japan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Jersey.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Jordan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Kazakhstan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Kenya.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Kiribati.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Kosovo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Kuwait.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Kyrgyzstan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Laos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Latvia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Lebanon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Lesotho.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Liberia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Libya.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Liechtenstein.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Lithuania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Luxembourg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Macau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Macedonia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Madagascar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Malawi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Malaysia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Maldives.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mali.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Malta.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mars.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Marshall-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Martinique.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mauritania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mauritius.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mayotte.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mexico.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Micronesia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Moldova.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Monaco.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mongolia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Montenegro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Montserrat.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Morocco.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Mozambique.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Myanmar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/NATO.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Nagorno-Karabakh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Namibia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Nauru.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Nepal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Netherlands-Antilles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Netherlands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/New-Caledonia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/New-Zealand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Nicaragua.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Niger.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Nigeria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Niue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Norfolk-Island.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/North-Korea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Northern-Cyprus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Northern-Mariana-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Norway.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Olympics.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Oman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Pakistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Palau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Palestine.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Panama.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Papua-New-Guinea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Paraguay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Peru.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Philippines.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Pitcairn-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Poland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Portugal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Puerto-Rico.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Qatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Red-Cross.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Republic-of-the-Congo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Romania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Russia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Rwanda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saint-Barthelemy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saint-Helena.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saint-Kitts-and-Nevis.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saint-Lucia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saint-Martin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saint-Vincent-and-the-Grenadines.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Samoa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/San-Marino.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Sao-Tome-and-Principe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Saudi-Arabia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Scotland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Senegal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Serbia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Seychelles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Sierra-Leone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Singapore.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Slovakia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Slovenia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Solomon-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Somalia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Somaliland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/South-Africa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/South-Georgia-and-the-South-Sandwich-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/South-Korea.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/South-Ossetia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/South-Sudan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Spain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Sri-Lanka.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Sudan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Suriname.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Swaziland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Sweden.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Switzerland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Syria.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Taiwan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Tajikistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Tanzania.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Thailand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Togo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Tokelau.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Tonga.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Trinidad-and-Tobago.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Tunisia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Turkey.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Turkmenistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Turks-and-Caicos-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Tuvalu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/US-Virgin-Islands.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Uganda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Ukraine.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/United-Arab-Emirates.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/United-Kingdom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/United-Nations.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/United-States.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Unknown.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Uruguay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Uzbekistan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Vanuatu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Vatican-City.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Venezuela.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Vietnam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Wales.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Wallis-And-Futuna.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Western-Sahara.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Yemen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Zambia.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/flags/Zimbabwe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/avatar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/avatar_all.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/google.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/header_one.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/header_two.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/jekyll.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/python.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/shattered.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/landing/word_map.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/search/cb-close.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/search/cb-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/custom.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/bs3-typeahead.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/count.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/github_api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/github_api.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/i18next.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/jPages.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/js.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/localization.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/scroll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/locales/en.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/locales/zh.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/ajax-loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/fonts/slick.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/fonts/slick.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/fonts/slick.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/fonts/slick.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/slick-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/slick.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/slick/slick.min.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" afterPath="$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" />
-      <change beforePath="$PROJECT_DIR$/_site/archive/index.html" afterPath="$PROJECT_DIR$/_site/archive/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" afterPath="$PROJECT_DIR$/_site/categories/index.html" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/index/careers.yml" afterPath="$PROJECT_DIR$/_data/index/careers.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/index/education.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_data/index/projects.yml" afterPath="$PROJECT_DIR$/_data/index/projects.yml" />
+      <change beforePath="$PROJECT_DIR$/_data/index/skills.yml" afterPath="$PROJECT_DIR$/_data/index/skills.yml" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2011-03-10-sample-post.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2012-05-22-readability-post.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2013-05-23-readability-feature-post.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2013-08-12-sample-link-post.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2013-08-16-code-highlighting-post.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2015-08-18-welcome-to-jekyll.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/read_time.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/sections/about.html" afterPath="$PROJECT_DIR$/_includes/sections/about.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/sections/career.html" afterPath="$PROJECT_DIR$/_includes/sections/career.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/sections/education.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/sections/projects.html" afterPath="$PROJECT_DIR$/_includes/sections/projects.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/sections/skills.html" afterPath="$PROJECT_DIR$/_includes/sections/skills.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-links.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post_listing.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap1.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap2.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-chap4.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-chap5.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-chap6.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-08-Java8-in-Action-chap8.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_global.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_helpers.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_normalize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_syntax-highlighting.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_typography.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/pages/_archive.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/pages/_layout.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/pages/_post.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/pages/_tags.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
+      <change beforePath="$PROJECT_DIR$/_site/archive/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/_site/static/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/_site/img/leonids-logo.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery-3.2.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/archive.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/assets/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_04.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_05.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_06.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_07.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_08.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_09.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/20171219/tip_11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/leonids-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resume.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tags.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,123 +833,79 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="199">
+              <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-12-19-Intellij-toolTip.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-06-Java8-in-Action-chap1.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="419">
-                <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-                <folding>
-                  <marker date="1516006357729" expanded="true" signature="3820:3994" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-06-Java8-in-Action-chap2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-                <folding>
-                  <marker date="1516006038187" expanded="true" signature="3526:3623" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-11-Java8-in-Action-chap4.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-chap4.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-20-Java8-in-Action-chap5.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-chap5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-03-Java8-in-Action-chap6.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-chap6.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-08-Java8-in-Action-chap8.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-08-Java8-in-Action-chap8.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="139">
-                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/archive.html">
+      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="495">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header_one.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/assets/img/landing/header_one.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banners.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/index/banners.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header_two.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/assets/img/landing/header_two.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme_files/blog.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/index_head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -156,27 +915,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.nn</find>
-      <find>post-cat</find>
-      <find>#F5A623</find>
-      <find>$secondary</find>
-      <find>secondary</find>
-      <find>author_name</find>
-      <find>.post-cat</find>
-      <find>.highlighter-rouge</find>
-      <find>.btn</find>
-      <find>col s12</find>
-      <find>share-buttons</find>
-      <find>avatar</find>
-      <find>Powered by Jekyll</find>
-      <find>heart-icon</find>
-      <find>fa-heart</find>
       <find>resume</find>
       <find>home</find>
       <find>Archive</find>
       <find>nav</find>
       <find>nav-list</find>
-      <find>categories</find>
       <find>categories/</find>
       <find>/articles/2017-12/</find>
       <find>:4000</find>
@@ -186,6 +929,22 @@
       <find>leonids-logo.png</find>
       <find>/articles/</find>
       <find>tool</find>
+      <find>/lanyon/</find>
+      <find>navbar</find>
+      <find>blog</find>
+      <find>/Jalpc</find>
+      <find>categories</find>
+      <find>DATABASE</find>
+      <find>DonateDonate</find>
+      <find>header-back</find>
+      <find>navbar-header</find>
+      <find>site.author.name</find>
+      <find>CAR</find>
+      <find>Jalpc</find>
+      <find>CAREER</find>
+      <find>testimonials</find>
+      <find>share</find>
+      <find>header_one.</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -202,9 +961,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-12-26-toolTip-Fragment-Edit.md" />
-        <option value="$PROJECT_DIR$/assets/_sass/_site.scss" />
         <option value="$PROJECT_DIR$/_site/assets/js/src/scripts.js" />
         <option value="$PROJECT_DIR$/assets/js/src/scripts.js" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
@@ -227,7 +983,6 @@
         <option value="$PROJECT_DIR$/tags.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-chap4.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap2.md" />
@@ -236,6 +991,27 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-08-Java8-in-Action-chap8.md" />
         <option value="$PROJECT_DIR$/archive.html" />
         <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap1.md" />
+        <option value="$PROJECT_DIR$/blog/categories.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/book/2014-01-01-example-content.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-12-31-whats-jekyll.md" />
+        <option value="$PROJECT_DIR$/_includes/sidebar.html" />
+        <option value="$PROJECT_DIR$/static/js/localization.js" />
+        <option value="$PROJECT_DIR$/blog/html.html" />
+        <option value="$PROJECT_DIR$/blog/database.html" />
+        <option value="$PROJECT_DIR$/blog/donate.html" />
+        <option value="$PROJECT_DIR$/blog/life.html" />
+        <option value="$PROJECT_DIR$/blog/mac.html" />
+        <option value="$PROJECT_DIR$/blog/python.html" />
+        <option value="$PROJECT_DIR$/static/locales/en.json" />
+        <option value="$PROJECT_DIR$/_data/landing.yml" />
+        <option value="$PROJECT_DIR$/_sass/_style.scss" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-21-test-code-snippets.md" />
+        <option value="$PROJECT_DIR$/blog/linux.html" />
+        <option value="$PROJECT_DIR$/_data/blog.yml" />
+        <option value="$PROJECT_DIR$/blog/java.html" />
+        <option value="$PROJECT_DIR$/_includes/share.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -266,27 +1042,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_data" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -306,55 +1069,50 @@
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="readme_files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="20171219" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lsy09.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lsy09.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="landing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,17 +1122,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="SearchEverywhereHistoryKey" value="index.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/categories/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/header_two.jpg&#10;head.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;avatar.jpg&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/avatar.jpg&#10;blo&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;index_head&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;blog_header.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/blog_header.html&#10;blog&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;analytics.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/analytics.html&#10;b&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;index.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/categories/index.html" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/book" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/img/20171219" />
       <recent name="$PROJECT_DIR$/temp" />
       <recent name="$PROJECT_DIR$/_posts/Intellij" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -502,7 +1261,12 @@
       <workItem from="1515733248271" duration="5164000" />
       <workItem from="1515749048414" duration="40000" />
       <workItem from="1515983507381" duration="2202000" />
-      <workItem from="1516000067093" duration="4644000" />
+      <workItem from="1516000067093" duration="5092000" />
+      <workItem from="1516071441626" duration="5025000" />
+      <workItem from="1516084732178" duration="1408000" />
+      <workItem from="1516346625681" duration="13000" />
+      <workItem from="1516586025128" duration="1690000" />
+      <workItem from="1516587806868" duration="4033000" />
     </task>
     <task id="LOCAL-00001" summary="title 수정">
       <created>1515573062544</created>
@@ -546,42 +1310,49 @@
       <option name="project" value="LOCAL" />
       <updated>1516004492626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="post upload">
+      <created>1516006475647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1516006475647</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34756000" />
+    <option name="totallyTimeSpent" value="47373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-315" width="2560" height="1417" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22093919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2178599" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13820492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14217633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -614,44 +1385,119 @@
     <MESSAGE value="title 수정" />
     <MESSAGE value="change theme" />
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value="post upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="post upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/sections/career.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/sections/about.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/sections/skills.html" />
-    <entry file="file://$PROJECT_DIR$/_site/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/_sass/components/_typography.scss">
+    <entry file="file://$PROJECT_DIR$/blog/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1150">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="630">
+          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/articles/2013-08/code-highlighting-post.html" />
-    <entry file="file://$PROJECT_DIR$/_sass/pages/_layout.scss">
+    <entry file="file://$PROJECT_DIR$/blog/database.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/donate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/mac.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sections/career.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sections/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-689">
+          <caret line="349" column="22" lean-forward="false" selection-start-line="349" selection-start-column="22" selection-end-line="349" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sections/links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sections/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/category.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-08-12-sample-link-post.md" />
-    <entry file="file://$PROJECT_DIR$/temp/2011-03-10-sample-post.md" />
-    <entry file="file://$PROJECT_DIR$/temp/2015-08-18-welcome-to-jekyll.md" />
-    <entry file="file://$PROJECT_DIR$/_sass/components/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="26" lean-forward="false" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_global.scss">
+    <entry file="file://$PROJECT_DIR$/_includes/foot.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -659,7 +1505,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_grid.scss">
+    <entry file="file://$PROJECT_DIR$/_includes/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -667,7 +1529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_helpers.scss">
+    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -675,62 +1537,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_syntax-highlighting.scss">
+    <entry file="file://$PROJECT_DIR$/_includes/index_foot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_buttons.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="810">
+          <caret line="54" column="4" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/locales/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/landing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="2659" column="21" lean-forward="false" selection-start-line="2659" selection-start-column="21" selection-end-line="2659" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/blog_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-31-3-steps-to-setup-website-with-Jalpc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-21-test-code-snippets.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/linux.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/blog.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/java/2017/12/21/test-code-snippets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="955" lean-forward="false" selection-start-line="12" selection-start-column="955" selection-end-line="12" selection-end-column="955" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/java.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/assets/javascript/anchor-js/banner.js">
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <marker date="1515481633000" expanded="true" signature="520:570" ph="{...}" />
-          </folding>
+        <state relative-caret-position="405">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
+    <entry file="file://$PROJECT_DIR$/_includes/index_head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme_files/share.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tags/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="64" column="60" lean-forward="true" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/readme_files/blog.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/social-links.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/readme_files/search.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+    <entry file="file://$PROJECT_DIR$/readme_files/Jalpc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -738,266 +1707,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post_listing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#11#17#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/archive/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/categories/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516006432973" expanded="true" signature="4852:5108" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/categories/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/avatar.jpg">
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/google.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/leonids-logo.png">
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/avatar_all.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/header_two.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/pages/_archive.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/avatar.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/articles/2017-12/Intellij-toolTip.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="77" lean-forward="false" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/jekyll.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/python.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/word_map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/shattered.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="199">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/header_one.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            <folding>
-              <marker date="1516006038187" expanded="true" signature="3526:3623" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-chap4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-chap5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-chap6.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-08-Java8-in-Action-chap8.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="139">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive.html">
+    <entry file="file://$PROJECT_DIR$/_data/index/banners.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-chap1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="419">
-            <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-            <folding>
-              <marker date="1516006357729" expanded="true" signature="3820:3994" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
