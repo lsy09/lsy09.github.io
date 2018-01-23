@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
+        <loc>http://localhost:4000/java/2018/01/23/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(OOP).html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/database/2018/01/23/RDBMS.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/java/2018/01/23/Java9.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/java/2018/01/23/Java8.html</loc>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/web/2018/01/22/RESTful-API.html</loc>
     </url>
 
     <url>
         <loc>http://localhost:4000/database/2018/01/22/Index.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/book/2017/12/06/Java8-in-Action-cp2.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/book/2017/12/06/Java8-in-Action-cp1.html</loc>
     </url>
 
 
@@ -27,15 +51,15 @@
     </url>
 
     <url>
+        <loc>http://localhost:4000/book/</loc>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/static/css/custom.css</loc>
     </url>
 
     <url>
         <loc>http://localhost:4000/database/</loc>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/blog/donate.html</loc>
     </url>
 
     <url>
