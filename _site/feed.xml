@@ -5,8 +5,8 @@
     <description>Youn's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jan 2018 18:27:01 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jan 2018 18:27:01 +0900</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 10:44:34 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 10:44:34 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -19,9 +19,16 @@
   &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;REST&lt;/code&gt;란, REpresentational State Transfer의 약자이다.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h5 id=&quot;rest-아키텍처에-적용되는-6가지-제한-조건제한조건-준수한다면-개별-컴포넌트-자유로운-구현-가능&quot;&gt;REST 아키텍처에 적용되는 6가지 제한 조건(제한조건 준수한다면, 개별 컴포넌트 자유로운 구현 가능)&lt;/h5&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;RESTful&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;클라이언트/서버구(Client-Server) : REST서버는 API제공, 클라이언트와 서버에서 개발해야할 내용이 명확해지고 서로간의 의존성이 줄어들게 된다.&lt;/li&gt;
+  &lt;li&gt;설계방식, 가볍고 개발 속도를 올릴 수 있는 개발방법이다.&lt;/li&gt;
+  &lt;li&gt;REST 원리를 따르는 시스템은 종종 RESTful이란 용어로 지칭한다.&lt;/li&gt;
+  &lt;li&gt;아키텍처. 웹의 특징을 잘살리는것을 말하고 이를 위한 아키텍처 룰이 몇가지 있다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;rest-아키텍처에-적용되는-6가지-제한-조건제한조건-준수한다면-개별-컴포넌트-자유로운-구현-가능&quot;&gt;REST 아키텍처에 적용되는 6가지 제한 조건(제한조건 준수한다면, 개별 컴포넌트 자유로운 구현 가능)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;클라이언트/서버구조(Client-Server) : REST서버는 API제공, 클라이언트와 서버에서 개발해야할 내용이 명확해지고 서로간의 의존성이 줄어들게 된다.&lt;/li&gt;
   &lt;li&gt;무상태(Stateless) : 작업을 위한 상태정보를 따로 저장하고 관리 하지 않는다. 별로로 저장하고 관리하지 않기 때문에 API서버는 들어오는 요청만을 단순히 처리하면된다.
 세션과 같은 컨텍스트 정보를 신경쓸 필요가 없기 때문에 구현이 단순해진다.&lt;/li&gt;
   &lt;li&gt;캐시처리가능(Cacheable) : HTTP라는 기존 웹표준을 그대로 사용하기 때문에, 웹에서 사용하는 기존 인프라를 그대로 활용이 가능하므로 HTTP프로토콜 표준에서 사용하는 
@@ -43,6 +50,23 @@ Last-Modifiend태그나 E-Tag를 이용하면 캐싱 구현이 가능하다.&lt;
         
         
         <category>Web</category>
+        
+      </item>
+    
+      <item>
+        <title>INDEX</title>
+        <description>
+</description>
+        <pubDate>Mon, 22 Jan 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/database/2018/01/22/Index.html</link>
+        <guid isPermaLink="true">http://localhost:4000/database/2018/01/22/Index.html</guid>
+        
+        <category>Database</category>
+        
+        <category>INDEX</category>
+        
+        
+        <category>Database</category>
         
       </item>
     

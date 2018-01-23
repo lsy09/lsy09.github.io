@@ -5,6 +5,10 @@
         <loc>http://localhost:4000/web/2018/01/22/RESTful-API.html</loc>
     </url>
 
+    <url>
+        <loc>http://localhost:4000/database/2018/01/22/Index.html</loc>
+    </url>
+
 
     <url>
         <loc>http://localhost:4000/2017-01-31-3-steps-to-setup-website-with-Jalpc.html</loc>
@@ -27,7 +31,7 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/blog/database.html</loc>
+        <loc>http://localhost:4000/database/</loc>
     </url>
 
     <url>
