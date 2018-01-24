@@ -353,7 +353,7 @@ button.dim {
 }
 
 .btn-success.btn-outline {
-  color: #1c84c6;
+  color: #646093;
 }
 
 .btn-info.btn-outline {
@@ -373,83 +373,83 @@ button.dim {
   border-color: #5F4B8B;
   color: #FFF;
   &.active {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #66648B;
+    border-color: #66648B;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #0073B1;
-      border-color: #0073B1;
+      background-color: #66648B;
+      border-color: #66648B;
       color: #FFF;
     }
   }
   &:active {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #66648B;
+    border-color: #66648B;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #0073B1;
-      border-color: #0073B1;
+      background-color: #66648B;
+      border-color: #66648B;
       color: #FFF;
     }
   }
   &:focus, &:hover {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #66648B;
+    border-color: #66648B;
     color: #FFF;
   }
   &.active[disabled] {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #66648B;
+    border-color: #66648B;
   }
   &[disabled] {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #66648B;
+    border-color: #66648B;
     &:active, &:focus, &:hover {
-      background-color: #0073B1;
-      border-color: #0073B1;
+      background-color: #66648B;
+      border-color: #66648B;
     }
   }
 }
 
 .btn-success {
-  background-color: #1c84c6;
-  border-color: #1c84c6;
+  background-color: #646093;
+  border-color: #646093;
   color: #FFF;
   &.active {
-    background-color: #1a7bb9;
-    border-color: #1a7bb9;
+    background-color: #696BA0;
+    border-color: #696BA0;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #1a7bb9;
-      border-color: #1a7bb9;
+      background-color: #696BA0;
+      border-color: #696BA0;
       color: #FFF;
     }
   }
   &:active {
-    background-color: #1a7bb9;
-    border-color: #1a7bb9;
+    background-color: #696BA0;
+    border-color: #696BA0;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #1a7bb9;
-      border-color: #1a7bb9;
+      background-color: #696BA0;
+      border-color: #696BA0;
       color: #FFF;
     }
   }
   &:focus, &:hover {
-    background-color: #1a7bb9;
-    border-color: #1a7bb9;
+    background-color: #696BA0;
+    border-color: #696BA0;
     color: #FFF;
   }
   &.active[disabled] {
-    background-color: #1f90d8;
-    border-color: #1f90d8;
+    background-color: #6D6695;
+    border-color: #6D6695;
   }
   &[disabled] {
-    background-color: #1f90d8;
-    border-color: #1f90d8;
+    background-color: #6D6695;
+    border-color: #6D6695;
     &:active, &:focus, &:hover {
-      background-color: #1f90d8;
-      border-color: #1f90d8;
+      background-color: #6D6695;
+      border-color: #6D6695;
     }
   }
 }
@@ -765,7 +765,7 @@ button.dim:active:before {
 }
 
 .label-success {
-  background-color: #1c84c6;
+  background-color: #646093;
   color: #FFF;
 }
 
@@ -1439,7 +1439,7 @@ code {
 }
 
 .panel-success {
-  border-color: #1c84c6;
+  border-color: #646093;
 }
 
 .panel-info {
@@ -1463,7 +1463,7 @@ code {
 }
 
 .text-success {
-  color: #1c84c6;
+  color: #646093;
 }
 
 .text-info {
@@ -1729,7 +1729,7 @@ ul.clear-list:first-child {
       color: #5F4B8B;
     }
     .text-primary {
-      color: #1c84c6;
+      color: #646093;
     }
     .text-info {
       color: #23c6c8;
