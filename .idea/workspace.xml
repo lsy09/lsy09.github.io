@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-Java8 in Action-cp6.md" afterPath="$PROJECT_DIR$/_posts/2017-12-20-Java8 in Action-cp6.md" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,36 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_open_sans.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/_open_sans.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="foot.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/foot.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sections/about.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,13 +64,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-12-20-Java8 in Action-cp6.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-12-20-Java8 in Action-cp6.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8 in Action-cp6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="849">
+              <first_editor relative-caret-position="845">
                 <caret line="394" column="7" lean-forward="true" selection-start-line="394" selection-start-column="7" selection-end-line="394" selection-end-column="7" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.scripthost.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.scripthost.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="180" column="65" lean-forward="true" selection-start-line="180" selection-start-column="65" selection-end-line="180" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-23-객체지향 프로그래밍(OOP).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-23-객체지향 프로그래밍(OOP).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="675">
+                <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-12-06-Java8 in Action-cp1.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2452">
+                <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+                <folding>
+                  <marker date="1516871654617" expanded="true" signature="3860:4034" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -217,7 +224,6 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-22-Index.md" />
         <option value="$PROJECT_DIR$/blog/book.html" />
         <option value="$PROJECT_DIR$/_data/blog.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp2.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-01-23-RDBMS.md" />
@@ -231,6 +237,7 @@
         <option value="$PROJECT_DIR$/_includes/sections/blog.html" />
         <option value="$PROJECT_DIR$/blog/blog.html" />
         <option value="$PROJECT_DIR$/_posts/2017-12-20-Java8 in Action-cp6.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md" />
       </list>
     </option>
   </component>
@@ -344,7 +351,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="SearchEverywhereHistoryKey" value="blog&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;blo&#9;FILE&#9;file:///Users/suyoun/Project/lsy09.github.io/_data/blog.yml&#10;header&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/header_two.jpg&#10;head.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;avatar.jpg&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/avatar.jpg&#10;index_head&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;blog_header.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/blog_header.html&#10;analytics.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/analytics.html&#10;b&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;index.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/categories/index.html" />
+    <property name="SearchEverywhereHistoryKey" value=".path&#9;null&#9;null&#10;blog&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;blo&#9;FILE&#9;file:///Users/suyoun/Project/lsy09.github.io/_data/blog.yml&#10;header&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/header_two.jpg&#10;head.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;avatar.jpg&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/avatar.jpg&#10;index_head&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;blog_header.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/blog_header.html&#10;analytics.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/analytics.html&#10;b&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;index.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/categories/index.html" />
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
@@ -495,7 +502,7 @@
       <workItem from="1516671788220" duration="8434000" />
       <workItem from="1516753717741" duration="404000" />
       <workItem from="1516761026475" duration="9765000" />
-      <workItem from="1516843806966" duration="3449000" />
+      <workItem from="1516843806966" duration="4381000" />
     </task>
     <task id="LOCAL-00001" summary="title 수정">
       <created>1515573062544</created>
@@ -616,11 +623,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516863411502</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="post 수정">
+      <created>1516865139616</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516865139616</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78571000" />
+    <option name="totallyTimeSpent" value="79503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-315" width="2560" height="1417" extended-state="6" />
@@ -632,9 +646,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10007698" sideWeight="0.5031771" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15704387" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15704387" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16397229" sideWeight="0.49682286" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16397229" sideWeight="0.49682286" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18943606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -729,18 +743,14 @@
     <MESSAGE value="오타수정" />
     <MESSAGE value="post" />
     <MESSAGE value="foot 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="foot 수정" />
+    <MESSAGE value="post 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="post 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/assets/img/landing/avatar.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/img/landing/jekyll.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -888,16 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-23-객체지향 프로그래밍(OOP).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="675">
-            <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-23-RDBMS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -913,16 +913,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="444">
             <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
@@ -1139,9 +1129,41 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8 in Action-cp6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="849">
+          <first_editor relative-caret-position="845">
             <caret line="394" column="7" lean-forward="true" selection-start-line="394" selection-start-column="7" selection-end-line="394" selection-end-column="7" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.scripthost.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="180" column="65" lean-forward="true" selection-start-line="180" selection-start-column="65" selection-end-line="180" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-23-객체지향 프로그래밍(OOP).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="675">
+            <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8 in Action-cp1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2452">
+            <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+            <folding>
+              <marker date="1516871654617" expanded="true" signature="3860:4034" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
