@@ -6,7 +6,7 @@ desc: "CHAPTER 2. 동작 파라미터화 코드 전달하기"
 keywords: "Java,Java8"
 categories: [Book]
 tags: [Java,Java8]
-icon: icon-java
+icon: icon-java-bold
 ---
 
 

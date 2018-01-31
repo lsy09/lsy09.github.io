@@ -6,7 +6,7 @@ desc: "CHAPTER 1. 자바 8을 눈여겨봐야 하는 이유"
 keywords: "Java,Java8"
 categories: [Book]
 tags: [Java,Java8]
-icon: icon-java
+icon: icon-java-bold
 ---
 
 

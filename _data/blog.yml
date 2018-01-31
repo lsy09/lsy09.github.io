@@ -27,3 +27,6 @@
 
 - name: Book
   href: /book/
+
+- name: Etc
+  href: /etc/

@@ -6,7 +6,7 @@ desc: "CHAPTER 5. 스트림 활용"
 keywords: "Java,Java8"
 categories: [Book]
 tags: [Java,Java8]
-icon: icon-java
+icon: icon-java-bold
 ---
 
 

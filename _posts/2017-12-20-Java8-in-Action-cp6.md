@@ -6,7 +6,7 @@ desc: "CHAPTER 6. 스트림으로 데이터 수집"
 keywords: "Java,Java8"
 categories: [Book]
 tags: [Java,Java8]
-icon: icon-java
+icon: icon-java-bold
 ---
 
 

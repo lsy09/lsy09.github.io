@@ -6,7 +6,7 @@ desc: "CHAPTER 8. 리팩토링, 테스팅, 디버깅"
 keywords: "Java,Java8"
 categories: [Book]
 tags: [Java,Java8]
-icon: icon-java
+icon: icon-java-bold
 ---
 
 
