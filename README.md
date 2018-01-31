@@ -19,10 +19,10 @@ $ bundle exec jekyll serve
 ```
 - http://127.0.0.1:4000
 
-![](http://lsy09.github.io/static/assets/img/landing/blogImg.png)
+![](https://lsy09.github.io/static/assets/img/landing/blogImg.png)
 
 > Jekyll Themes 
-1. [Themes](http://jekyllthemes.org/) 선
+1. [Themes](http://jekyllthemes.org/) 선택
 2. Download
 3. {git계정}.github.io 안에 압축 해제 
 4. 자동으로 인식하기 때문에 새로고침 하면 변경된 Theme 확인 가능
