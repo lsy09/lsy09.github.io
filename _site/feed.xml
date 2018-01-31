@@ -5,8 +5,8 @@
     <description>Youn's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2018 15:56:57 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2018 15:56:57 +0900</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2018 15:02:59 +0900</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2018 15:02:59 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -1130,6 +1130,75 @@ Last-Modifiend태그나 E-Tag를 이용하면 캐싱 구현이 가능하다.&lt;
       </item>
     
       <item>
+        <title>Intellij JSON Fragment Edit 기능</title>
+        <description>&lt;h1 id=&quot;intellij-json-fragment-edit-기능&quot;&gt;Intellij JSON Fragment Edit 기능&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Intellij 사용시 JSON을 편집 할 수 있는 &lt;strong&gt;JSON Fragment Edit 기능&lt;/strong&gt; 제공&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;JSON문자열을 넣을 String변수 선언. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;변수의 값이 되는 &lt;strong&gt;”“&lt;/strong&gt; 사이에 커서를 두고, &lt;strong&gt;alt+enter&lt;/strong&gt;를 누르면 &lt;strong&gt;Inject language or reference 선택&lt;/strong&gt; 시 아래와 같이 선택 리스트 생성 됨. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;JSON 선택 시 아래와 같은 팝업 생성됨, 한번 더 &lt;strong&gt;alt+enter&lt;/strong&gt;. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_03.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;//language=JSON&lt;/strong&gt; 라는 주석이 생성. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_04.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;다시 &lt;strong&gt;”“&lt;/strong&gt; 사이에 커서를 두고, &lt;strong&gt;alt+enter&lt;/strong&gt;를 누르면 메뉴가 나오는데 이때 &lt;strong&gt;Edit JSON Fragment&lt;/strong&gt; 선택. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_05.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;아래 이미지와 같은 JSON편집 화면 생성 됨. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_06.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fragment 편집 화면에서 JSON을 직접 편집하면 편집한 내용이 자동으로 변수에 값 변환이 되어서 적용 됨. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_07.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Inject Ianguage or reference 가 보이지 않을 때&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_08.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;command+enter -&amp;gt; Editor -&amp;gt; Intentions 선택. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_09.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Language Injection 리스트 내에 있는 Inject language or reference 클릭 저장. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inject language or reference 선택 팝업 정상 생성. &lt;br /&gt;
+&lt;img src=&quot;http://tech.javacafe.io/img/blog/20171219/tip_11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 19 Dec 2017 20:37:00 +0900</pubDate>
+        <link>http://localhost:4000/2017/12/19/Intellij-toolTip.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/19/Intellij-toolTip.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Java8 in Action : CHAPTER4</title>
         <description>&lt;h2 id=&quot;chapter-4-스트림-소개&quot;&gt;CHAPTER 4. 스트림 소개&lt;/h2&gt;
 
@@ -1966,7 +2035,10 @@ Last-Modifiend태그나 E-Tag를 이용하면 캐싱 구현이 가능하다.&lt;
   &lt;p&gt;멀티스레딩은 어렵다&lt;code class=&quot;highlighter-rouge&quot;&gt;이전 자바&lt;/code&gt; - 멀티스레딩 환경에서 각각의 스레드는 동시에 공유된 데이터에 접근, 데이터 갱신. - 멀티스레딩 모델은 순차적인 모델보다 다루기가 어려움.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자바 8&lt;/code&gt; - 스트림API(java.util.stream)로 ‘컬렉션을 처리하면서 발생하는 모호함과 반복적인 코드 문제’ 그리고 ‘멀티코어 활용 어려움’이라는 두 가지 문제를 모두 해결.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자바 8&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;스트림API(java.util.stream)로 ‘컬렉션을 처리하면서 발생하는 모호함과 반복적인 코드 문제’ 그리고 ‘멀티코어 활용 어려움’이라는 두 가지 문제를 모두 해결.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
@@ -1977,15 +2049,24 @@ Last-Modifiend태그나 E-Tag를 이용하면 캐싱 구현이 가능하다.&lt;
   &lt;li&gt;특정 프로그램을 구현하는데 도움을 주는 기능이 아니라 미래에 프로그램이 쉽게 변화할 수 있는 환경을 제공하는 기능.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;이전 자바&lt;/code&gt; - List&lt;T&gt;(List가 구현하는 인터페이스인 Collection&lt;T&gt;도 마찬가지)가 stream 이나 parallelStream 메서드를 지원하지 않는다는 것이 문제&lt;/T&gt;&lt;/T&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;이전 자바&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;List&lt;T&gt;(List가 구현하는 인터페이스인 Collection&lt;T&gt;도 마찬가지)가 stream 이나 parallelStream 메서드를 지원하지 않는다는 것이 문제&lt;/T&gt;&lt;/T&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자바 8&lt;/code&gt; - 구현 클래스에서 구현하지 않아도 되는 메서드를 인터페이스가 포함할 수 있는 기능도 제공. - 메서드 바디는 클래스 구현이 아니라 인터페이스의 일부로 포함. - 기존의 코드를 건드리지 않고도 원래의 인터페이스 설계를 자유롭게 확장, 인터페이스 규격명세서에 default라는 새로운 키워드를 지원.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자바 8&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;구현 클래스에서 구현하지 않아도 되는 메서드를 인터페이스가 포함할 수 있는 기능도 제공. - 메서드 바디는 클래스 구현이 아니라 인터페이스의 일부로 포함. - 기존의 코드를 건드리지 않고도 원래의 인터페이스 설계를 자유롭게 확장, 인터페이스 규격명세서에 default라는 새로운 키워드를 지원.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;15-함수형-프로그램에서-가져온-다른-유용한-아이디어&quot;&gt;1.5 함수형 프로그램에서 가져온 다른 유용한 아이디어&lt;/h3&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자바 8&lt;/code&gt; - NullPointer 예외를 피할 수 있도록 도와주는 Optional&lt;T&gt; 클래스 제공. - Optional&lt;T&gt;는 값을 갖거나 갖지 않을 수 있는 컨테어너 객체이며, Optional&lt;T&gt;는 값이 없는 상황을 어떻게 처리할지 명시적으로 구현하는 메서드를 포함. - Optional&lt;T&gt;를 사용하면 NullPointer 예외를 피할 수 있음.&lt;/T&gt;&lt;/T&gt;&lt;/T&gt;&lt;/T&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자바 8&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;NullPointer 예외를 피할 수 있도록 도와주는 Optional&lt;T&gt; 클래스 제공. - Optional&lt;T&gt;는 값을 갖거나 갖지 않을 수 있는 컨테어너 객체이며, Optional&lt;T&gt;는 값이 없는 상황을 어떻게 처리할지 명시적으로 구현하는 메서드를 포함. - Optional&lt;T&gt;를 사용하면 NullPointer 예외를 피할 수 있음.&lt;/T&gt;&lt;/T&gt;&lt;/T&gt;&lt;/T&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Wed, 06 Dec 2017 00:00:00 +0900</pubDate>
