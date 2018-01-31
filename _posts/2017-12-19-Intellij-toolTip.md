@@ -6,7 +6,7 @@ desc: "Intellij toolTip"
 keywords: "JAVA,OOP"
 categories: [Etc]
 tags: [Intellij,IEDA]
-icon: icon-idea
+icon: fa-flag
 ---
 
 # Intellij JSON Fragment Edit 기능
