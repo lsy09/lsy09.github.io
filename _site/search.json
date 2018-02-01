@@ -3,6 +3,14 @@
     "data" : [
      
     {
+        "title" : "Jekyll 으로 GitHub 블로그 생성 - 2018-02-01",
+        "url" : "/web/2018/02/01/Jekyll-%EC%9C%BC%EB%A1%9C-Git-Blog-%EC%83%9D%EC%84%B1.html"
+    }
+    
+    ,
+    
+    
+    {
         "title" : "객체지향 프로그래밍이란? - 2018-01-23",
         "url" : "/java/2018/01/23/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(OOP).html"
     }
