@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Jekyll 으로 GitHub 블로그 생성"
-date:   2018-01-22
+date:   2018-02-01
 desc: "Jekyll 으로 Git 블로그"
 keywords: "Jekyll,API,Blog"
 categories: [Web]
 tags: [Jekyll,GitHub,Blog]
-icon: fa-internet-explorer
+icon: fa-github
 ---
 
 
