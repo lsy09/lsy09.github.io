@@ -11,10 +11,10 @@ icon: icon-java-bold
 
 
 ## CHAPTER 6. 스트림으로 데이터 수집
-
-[CHAPTER6.sampleTestCode](https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap6/Exercise.java)
+> [CHAPTER6.sampleTestCode](https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap6/Exercise.java)
 
 ```text
+
 - Collectors 클래스로 컬렉션을 만들고 사용
 - 하나의 값으로 데이터 스트림 리듀스
 - 특별한 리듀싱 요약 연산
@@ -22,7 +22,7 @@ icon: icon-java-bold
 - 자신만의 커스텀 컬렉터 개발
 ```
 
--	자바8의 스트림이란 데이터 집합을 멋지게 처리하는 게으른 반복자
+-	자바8의 스트림이란 데이터 집합을 멋지게 처리하는 게으른 반복자 
 -	스트림의 연산은 filter 또는 map 같은 중간 연산과 count, findFirst, forEach, reduce등의 최종 연산으로 구분
 -	중간 연산은 한 스트림을 다른 스트림으로 변환하는 연산으로, 여러 연산을 구분 할수 있음
 	-	스트림 파이프라인을 구성, 스트림의 요소를 소비<sup>consume</sup> 하지 않음
