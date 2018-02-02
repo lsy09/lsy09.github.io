@@ -12,6 +12,8 @@ icon: icon-java-bold
 
 ## CHAPTER 6. 스트림으로 데이터 수집
 
+[CHAPTER6.sampleTestCode](https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap6/Exercise.java)
+
 ```text
 - Collectors 클래스로 컬렉션을 만들고 사용
 - 하나의 값으로 데이터 스트림 리듀스
@@ -404,6 +406,7 @@ icon: icon-java-bold
 4.	finisher 메서드와 컬렉터의 characteristics 메서드
 
 > 컬렉터 성능 비교
+
 
 
 
