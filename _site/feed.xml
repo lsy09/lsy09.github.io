@@ -5,8 +5,8 @@
     <description>Youn's blog,use Jekyll and github pages.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Feb 2018 16:32:03 +0900</pubDate>
-    <lastBuildDate>Thu, 01 Feb 2018 16:32:03 +0900</lastBuildDate>
+    <pubDate>Sat, 03 Feb 2018 19:00:32 +0900</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2018 19:00:32 +0900</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -576,8 +576,12 @@ Last-Modifiend태그나 E-Tag를 이용하면 캐싱 구현이 가능하다.&lt;
       <item>
         <title>Java8 in Action : CHAPTER6</title>
         <description>&lt;h2 id=&quot;chapter-6-스트림으로-데이터-수집&quot;&gt;CHAPTER 6. 스트림으로 데이터 수집&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap6/Exercise.java&quot;&gt;CHAPTER6.sampleTestCode&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Collectors 클래스로 컬렉션을 만들고 사용
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+- Collectors 클래스로 컬렉션을 만들고 사용
 - 하나의 값으로 데이터 스트림 리듀스
 - 특별한 리듀싱 요약 연산
 - 데이터 그룹화와 분할

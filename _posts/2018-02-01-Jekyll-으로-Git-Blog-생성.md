@@ -22,6 +22,8 @@ icon: fa-github
 ```
 $ sudo gem install jekyll
 $ sudo gem install jekyll bundler
+
+$ bundle install
 ```
 
 <br>
