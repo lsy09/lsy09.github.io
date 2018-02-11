@@ -9,7 +9,6 @@ tags: [Java,Java8]
 icon: icon-java-bold
 ---
 
-
 ## CHAPTER 6. 스트림으로 데이터 수집
 > [CHAPTER6.sampleTestCode](https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap6/Exercise.java)
 

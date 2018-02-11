@@ -1,12 +1,16 @@
 ---
-
-layout: post title: "Java8 in Action : CHAPTER7" date: 2018-01-03 desc: "CHAPTER 7. 병렬 데이터 처리와 성능" keywords: "Java,Java8" categories: [Book] tags: [Java,Java8]
-
+layout: post
+title:  "Java8 in Action : CHAPTER7"
+date:   2018-01-03
+desc: "CHAPTER 7. 병렬 데이터 처리와 성능"
+keywords: "Java,Java8"
+categories: [Book]
+tags: [Java,Java8]
 icon: icon-java-bold
---------------------
+---
 
-CHAPTER 7. 병렬 데이터 처리와 성능
-----------------------------------
+## CHAPTER 7. 병렬 데이터 처리와 성능
+> [CHAPTER7.sampleTestCode](https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap7/Parallel.java)
 
 ```text
 - 병렬 스트림으로 데이터를 병렬 처리하기

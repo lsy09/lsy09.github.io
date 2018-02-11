@@ -9,7 +9,6 @@ tags: [Java,Java8]
 icon: icon-java-bold
 ---
 
-
 ## CHAPTER 8. 리팩토링, 테스팅, 디버깅
 
 ```text
