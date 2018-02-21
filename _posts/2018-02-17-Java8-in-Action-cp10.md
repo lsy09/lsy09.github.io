@@ -184,7 +184,7 @@ public Optional<Insurance> nullSafeFindCheapestInsurance(Optional<Person> person
 }
 ```
 
-> 필터로 트정값 거르기
+> 필터로 특정값 거르기
 
 - Insurance 객체가 null인지 여부를 확인한 다음에 getName 메서드를 호출
 
