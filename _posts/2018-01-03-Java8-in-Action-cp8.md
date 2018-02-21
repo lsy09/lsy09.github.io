@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER8"
+title:  "Java8 in Action : CHAPTER_08"
 date:   2018-01-03
 desc: "CHAPTER 8. 리팩토링, 테스팅, 디버깅"
 keywords: "Java,Java8"

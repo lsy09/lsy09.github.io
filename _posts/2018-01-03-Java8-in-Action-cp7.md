@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER7"
+title:  "Java8 in Action : CHAPTER_07"
 date:   2018-01-03
 desc: "CHAPTER 7. 병렬 데이터 처리와 성능"
 keywords: "Java,Java8"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER2"
+title:  "Java8 in Action : CHAPTER_02"
 date:   2017-12-06
 desc: "CHAPTER 2. 동작 파라미터화 코드 전달하기"
 keywords: "Java,Java8"

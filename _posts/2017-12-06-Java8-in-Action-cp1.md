@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER1"
+title:  "Java8 in Action : CHAPTER_01"
 date:   2017-12-06
 desc: "CHAPTER 1. 자바 8을 눈여겨봐야 하는 이유"
 keywords: "Java,Java8"

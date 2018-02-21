@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER5"
+title:  "Java8 in Action : CHAPTER_05"
 date:   2017-12-20
 desc: "CHAPTER 5. 스트림 활용"
 keywords: "Java,Java8"

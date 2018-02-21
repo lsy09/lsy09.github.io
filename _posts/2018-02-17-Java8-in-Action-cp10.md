@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER10"
+title:  "Java8 in Action : CHAPTER_10"
 date:   2018-02-17
 desc: "CHAPTER 10. null 대신 Optional"
 keywords: "Java,Java8"
@@ -72,9 +72,9 @@ public class Insurance {
 
 > Optional 적용 패턴
 
->> Optional 객체 만들기
+###### Optional 객체 만들기
 
->>> 빈 Optional
+###### 빈 Optional
 
 - 정적 팩토리 메서드 Optional.empty로 빈 Optional 객체를 얻을수 있음
         
@@ -82,7 +82,7 @@ public class Insurance {
     Optional<Car> optCar = Optional.empty();
     ```
     
->>> null이 아닌 값으로 Optional 만들기
+###### null이 아닌 값으로 Optional 만들기
 
 - 정적 팩토리 메서드 Optional.of로 null이 아닌 값을 포함하는 Optional을 만들수 있음
 
@@ -92,7 +92,7 @@ public class Insurance {
 
     - car가 null이라면 즉시 NullPointerException이 발생(Optional을 사용하지 않았다면 car의 프로퍼티에 접근하려 할때 에러 발생)
 
->>> null값으로 Optional 만들기
+###### null값으로 Optional 만들기
 
 - 정적 팩토리 메서드 Optional.ofNullable로 null 값을 저장할 수 있는 Optional을 만들수 있음
     

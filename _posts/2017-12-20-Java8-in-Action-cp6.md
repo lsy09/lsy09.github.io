@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER6"
+title:  "Java8 in Action : CHAPTER_06"
 date:   2017-12-20
 desc: "CHAPTER 6. 스트림으로 데이터 수집"
 keywords: "Java,Java8"

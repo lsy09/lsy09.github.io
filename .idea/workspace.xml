@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md" afterPath="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md" afterPath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md" afterPath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md" afterPath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md" afterPath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md" afterPath="$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-12-19-Intellij-toolTip.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
+      <file leaf-file-name="2018-02-21-Java8-in-Action-cp11.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="437">
+                <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,9 +43,65 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-12-20-Java8-in-Action-cp5.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-12-11-Java8-in-Action-cp4.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-12-06-Java8-in-Action-cp2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="16">
+                <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+                <folding>
+                  <marker date="1519210333566" expanded="true" signature="3574:3671" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-12-06-Java8-in-Action-cp1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+                <folding>
+                  <marker date="1519210333574" expanded="true" signature="3867:4041" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -48,8 +112,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="417">
-                <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -57,19 +121,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-02-17-Java8-in-Action-cp10.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md">
+      <file leaf-file-name="2018-01-03-Java8-in-Action-cp7.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="483">
-                <caret line="171" column="0" lean-forward="true" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+              <first_editor relative-caret-position="13">
+                <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
                 <folding>
-                  <marker date="1519207994315" expanded="true" signature="1472:1610" ph="{...}" />
-                  <marker date="1519207994315" expanded="true" signature="1593:1608" ph="{...}" />
-                  <marker date="1519207994315" expanded="true" signature="1629:1801" ph="{...}" />
-                  <marker date="1519207994315" expanded="true" signature="1778:1799" ph="{...}" />
-                  <marker date="1519207994315" expanded="true" signature="1826:1924" ph="{...}" />
-                  <marker date="1519207994315" expanded="true" signature="1906:1922" ph="{...}" />
+                  <marker date="1519210015660" expanded="true" signature="3737:3756" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -77,46 +136,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="banners.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/index/banners.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <folding />
+      <file leaf-file-name="2018-02-17-Java8-in-Action-cp10.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+                <folding>
+                  <marker date="1519209981794" expanded="true" signature="1293:1431" ph="{...}" />
+                  <marker date="1519209981794" expanded="true" signature="1414:1429" ph="{...}" />
+                  <marker date="1519209981794" expanded="true" signature="1450:1622" ph="{...}" />
+                  <marker date="1519209981794" expanded="true" signature="1599:1620" ph="{...}" />
+                  <marker date="1519209981794" expanded="true" signature="1647:1745" ph="{...}" />
+                  <marker date="1519209981794" expanded="true" signature="1727:1743" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carousel.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/carousel.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="12" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="12" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <marker date="1517464207402" expanded="true" signature="1605:1853" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="2018-02-17-Java8-in-Action-cp9.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="28">
+                <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
+                <folding>
+                  <marker date="1519209975484" expanded="true" signature="1554:1605" ph="{...}" />
+                  <marker date="1519209975484" expanded="true" signature="2174:2184" ph=" { " />
+                  <marker date="1519209975484" expanded="true" signature="2226:2232" ph=" }" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -172,14 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/static/js/localization.js" />
-        <option value="$PROJECT_DIR$/blog/html.html" />
-        <option value="$PROJECT_DIR$/blog/donate.html" />
-        <option value="$PROJECT_DIR$/blog/life.html" />
-        <option value="$PROJECT_DIR$/blog/mac.html" />
-        <option value="$PROJECT_DIR$/blog/python.html" />
-        <option value="$PROJECT_DIR$/static/locales/en.json" />
-        <option value="$PROJECT_DIR$/_data/landing.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-12-21-test-code-snippets.md" />
         <option value="$PROJECT_DIR$/blog/linux.html" />
         <option value="$PROJECT_DIR$/blog/java.html" />
@@ -221,8 +265,16 @@
         <option value="$PROJECT_DIR$/_includes/carousel.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_sass/_style.scss" />
-        <option value="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md" />
       </list>
     </option>
   </component>
@@ -286,17 +338,17 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/blog" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/assets/img/landing" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/static/assets/img/blog" />
       <recent name="$PROJECT_DIR$/_posts/book" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/blog" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -555,7 +607,7 @@
       <workItem from="1517552621476" duration="111000" />
       <workItem from="1518484730378" duration="239000" />
       <workItem from="1518510201853" duration="74000" />
-      <workItem from="1519207907738" duration="141000" />
+      <workItem from="1519207907738" duration="3627000" />
     </task>
     <task id="LOCAL-00001" summary="title 수정">
       <created>1515573062544</created>
@@ -704,11 +756,25 @@
       <option name="project" value="LOCAL" />
       <updated>1517552551168</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="오타 수정">
+      <created>1519208112213</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1519208112214</updated>
+    </task>
+    <task id="LOCAL-00023" summary="post 수정">
+      <created>1519208401184</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1519208401184</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113896000" />
+    <option name="totallyTimeSpent" value="117382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-338" width="2560" height="1440" extended-state="6" />
@@ -721,8 +787,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10007698" sideWeight="0.5031771" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3254282" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16741072" sideWeight="0.49682286" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32440478" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16741072" sideWeight="0.49682286" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14495632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -797,58 +863,18 @@
     <MESSAGE value="오타수정" />
     <MESSAGE value="post" />
     <MESSAGE value="foot 수정" />
-    <MESSAGE value="post 수정" />
     <MESSAGE value="README, AboutMe IMG 수정" />
     <MESSAGE value="IMG size수정" />
     <MESSAGE value="post 내용추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="post 내용추가" />
+    <MESSAGE value="오타 수정" />
+    <MESSAGE value="post 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="post 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-23-Java9.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="15" column="105" lean-forward="false" selection-start-line="15" selection-start-column="105" selection-end-line="15" selection-end-column="105" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1114">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sections/career.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sections/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sections/skills.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -972,16 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1140">
-            <caret line="76" column="37" lean-forward="false" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/blog.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -992,16 +1008,6 @@
     <entry file="file://$PROJECT_DIR$/static/assets/img/blog/3steps/edit.gif">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-22-Index.md">
@@ -1082,17 +1088,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/index/banners.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1128,8 +1123,8 @@
         <state relative-caret-position="675">
           <caret line="45" column="12" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="12" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
             <marker date="1517464207402" expanded="true" signature="1605:1853" ph="..." />
           </folding>
         </state>
@@ -1179,23 +1174,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README_origin.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-19-Intellij-toolTip.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="417">
-            <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-            <folding />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
+            <folding>
+              <marker date="1519209975484" expanded="true" signature="1554:1605" ph="{...}" />
+              <marker date="1519209975484" expanded="true" signature="2174:2184" ph=" { " />
+              <marker date="1519209975484" expanded="true" signature="2226:2232" ph=" }" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1204,16 +1203,110 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="483">
-            <caret line="171" column="0" lean-forward="true" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             <folding>
-              <marker date="1519207994315" expanded="true" signature="1472:1610" ph="{...}" />
-              <marker date="1519207994315" expanded="true" signature="1593:1608" ph="{...}" />
-              <marker date="1519207994315" expanded="true" signature="1629:1801" ph="{...}" />
-              <marker date="1519207994315" expanded="true" signature="1778:1799" ph="{...}" />
-              <marker date="1519207994315" expanded="true" signature="1826:1924" ph="{...}" />
-              <marker date="1519207994315" expanded="true" signature="1906:1922" ph="{...}" />
+              <marker date="1519209981794" expanded="true" signature="1293:1431" ph="{...}" />
+              <marker date="1519209981794" expanded="true" signature="1414:1429" ph="{...}" />
+              <marker date="1519209981794" expanded="true" signature="1450:1622" ph="{...}" />
+              <marker date="1519209981794" expanded="true" signature="1599:1620" ph="{...}" />
+              <marker date="1519209981794" expanded="true" signature="1647:1745" ph="{...}" />
+              <marker date="1519209981794" expanded="true" signature="1727:1743" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="13">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <folding>
+              <marker date="1519210015660" expanded="true" signature="3737:3756" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="16">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <folding>
+              <marker date="1519210333566" expanded="true" signature="3574:3671" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <folding>
+              <marker date="1519210333574" expanded="true" signature="3867:4041" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

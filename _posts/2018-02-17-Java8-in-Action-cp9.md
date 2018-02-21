@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java8 in Action : CHAPTER9"
+title:  "Java8 in Action : CHAPTER_09"
 date:   2018-02-17
 desc: "CHAPTER 9. 디폴트 메서드"
 keywords: "Java,Java8"
