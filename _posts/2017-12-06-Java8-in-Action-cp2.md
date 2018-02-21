@@ -12,7 +12,6 @@ icon: icon-java-bold
 
 ## CHAPTER 2. 동작 파라미터화 코드 전달하기
 
-
 -	동작 파라미터화<sup>behavior parameterization</sup>를 이용하면 자주 바뀌는 요구사항에 효과적으로 대응
 -	동작 파라미터화란 아직은 어떻게 실행할 것인지 결정하지 않은 코드 블록을 의미
 

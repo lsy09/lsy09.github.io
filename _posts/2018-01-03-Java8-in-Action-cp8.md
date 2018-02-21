@@ -11,13 +11,6 @@ icon: icon-java-bold
 
 ## CHAPTER 8. 리팩토링, 테스팅, 디버깅
 
-```text
-- 람다 표현식으로 코드 리팩토링하기
-- 람다 표현식이 객체지향 설계 패턴에 미치는 영향
-- 람다 표현식 테스팅
-- 람다 표현식과 스트림 API 사용 코드 디버깅
-```
-
 -	람다 표현식을 이용해서 가독성과 유연성을 높이려면 기존 코드를 어떻게 리팩토링 해야 하는지 설명
 -	람다 표현식으로 전략<sup>strategy</sup>, 템플릿 메서드<sup>template method</sup>, 옵저버<sup>dbserver</sup>, 의무 체인<sup>chain of responsibility</sup>, 팩토리<sup>factory</sup> 등의 객체지향 디자인 패턴을 어떻게 간소화 할수 있는가 설명
 -	람다 표현식과 스트림 API를 사용하는 코드를 테스트하고 디버깅하는 방법을 설명

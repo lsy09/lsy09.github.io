@@ -12,13 +12,6 @@ icon: icon-java-bold
 ## CHAPTER 7. 병렬 데이터 처리와 성능
 > [CHAPTER7.sampleTestCode](https://github.com/lsy09/Review/blob/master/Java8InAction/source/src/main/java/java8inaction/chap7/Parallel.java)
 
-```text
-- 병렬 스트림으로 데이터를 병렬 처리하기
-- 병렬 스트림의 성능 분석
-- 포크/조인 프레임워크
-- Spliterator로 스트림 데이터 쪼개기
-```
-
 -	자바7 등장 이전 데이터 컬렉션을 병렬 처리하기 어려움이 있었음
 -	스트림으로 데이터 컬렉션 관련 동작을 얼마나 쉽게 병렬로 실행할 수 있는지 설명
 -	스트림을 이용하면 순차 스트림을 병렬 스트림으로 자연스럽게 바꿀수 있음

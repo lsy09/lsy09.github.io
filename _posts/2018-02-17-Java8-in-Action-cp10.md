@@ -11,14 +11,6 @@ icon: icon-java-bold
 
 ## CHAPTER 10. null 대신 Optional
 
-```text
-- null 레퍼런스의 문제점과 null을 멀리해야 하는 이유
-- null 대신 Optional: null로부터 안전한 도메인 모델 재구현하기
-- Optional 활용: null 확인 코드 제거하기
-- Optional에 저장된 값을 확인하는 방법
-- 값이 없을 수도 있는 상황을 고려하는 프로그래밍
-```
-
 > null 때문에 발생하는 문제
 
 - 에러의 근원이다
