@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
+        <loc>http://localhost:4000/book/2018/02/21/Java8-in-Action-cp11.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/book/2018/02/17/Java8-in-Action-cp9.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/book/2018/02/17/Java8-in-Action-cp10.html</loc>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/web/2018/02/01/Jekyll-%EC%9C%BC%EB%A1%9C-Git-Blog-%EC%83%9D%EC%84%B1.html</loc>
     </url>
 
@@ -31,6 +43,10 @@
 
     <url>
         <loc>http://localhost:4000/book/2018/01/03/Java8-in-Action-cp8.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/book/2018/01/03/Java8-in-Action-cp7.html</loc>
     </url>
 
     <url>

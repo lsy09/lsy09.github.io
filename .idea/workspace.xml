@@ -6,16 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md" afterPath="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md" afterPath="$PROJECT_DIR$/_posts/2017-12-11-Java8-in-Action-cp4.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md" afterPath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp5.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md" afterPath="$PROJECT_DIR$/_posts/2017-12-20-Java8-in-Action-cp6.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md" afterPath="$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp8.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md" afterPath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md" afterPath="$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md" afterPath="$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/2017/12/06/Java8-in-Action-cp1.html" afterPath="$PROJECT_DIR$/_site/book/2017/12/06/Java8-in-Action-cp1.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/2017/12/06/Java8-in-Action-cp2.html" afterPath="$PROJECT_DIR$/_site/book/2017/12/06/Java8-in-Action-cp2.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/2017/12/11/Java8-in-Action-cp4.html" afterPath="$PROJECT_DIR$/_site/book/2017/12/11/Java8-in-Action-cp4.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/2017/12/20/Java8-in-Action-cp5.html" afterPath="$PROJECT_DIR$/_site/book/2017/12/20/Java8-in-Action-cp5.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/2017/12/20/Java8-in-Action-cp6.html" afterPath="$PROJECT_DIR$/_site/book/2017/12/20/Java8-in-Action-cp6.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/2018/01/03/Java8-in-Action-cp8.html" afterPath="$PROJECT_DIR$/_site/book/2018/01/03/Java8-in-Action-cp8.html" />
+      <change beforePath="$PROJECT_DIR$/_site/book/index.html" afterPath="$PROJECT_DIR$/_site/book/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/_site/package-lock.json" afterPath="$PROJECT_DIR$/_site/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/_site/search.json" afterPath="$PROJECT_DIR$/_site/search.json" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
+      <change beforePath="$PROJECT_DIR$/_site/web/2018/02/01/Jekyll-으로-Git-Blog-생성.html" afterPath="$PROJECT_DIR$/_site/web/2018/02/01/Jekyll-으로-Git-Blog-생성.html" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,15 +30,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-02-21-Java8-in-Action-cp11.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-02-21-Java8-in-Action-cp11.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+              <first_editor relative-caret-position="423">
+                <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1299">
+              <caret line="923" column="7" lean-forward="true" selection-start-line="923" selection-start-column="7" selection-end-line="923" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="16">
+              <first_editor relative-caret-position="30">
                 <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
                 <folding>
                   <marker date="1519210333566" expanded="true" signature="3574:3671" ph="{...}" />
@@ -98,7 +122,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="330">
-                <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+                <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
                 <folding>
                   <marker date="1519210333574" expanded="true" signature="3867:4041" ph="{...}" />
                 </folding>
@@ -125,47 +149,10 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="13">
+              <first_editor relative-caret-position="30">
                 <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
                 <folding>
                   <marker date="1519210015660" expanded="true" signature="3737:3756" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-02-17-Java8-in-Action-cp10.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-                <folding>
-                  <marker date="1519209981794" expanded="true" signature="1293:1431" ph="{...}" />
-                  <marker date="1519209981794" expanded="true" signature="1414:1429" ph="{...}" />
-                  <marker date="1519209981794" expanded="true" signature="1450:1622" ph="{...}" />
-                  <marker date="1519209981794" expanded="true" signature="1599:1620" ph="{...}" />
-                  <marker date="1519209981794" expanded="true" signature="1647:1745" ph="{...}" />
-                  <marker date="1519209981794" expanded="true" signature="1727:1743" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-02-17-Java8-in-Action-cp9.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="28">
-                <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
-                <folding>
-                  <marker date="1519209975484" expanded="true" signature="1554:1605" ph="{...}" />
-                  <marker date="1519209975484" expanded="true" signature="2174:2184" ph=" { " />
-                  <marker date="1519209975484" expanded="true" signature="2226:2232" ph=" }" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -177,7 +164,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header_one.jpg</find>
       <find>banners</find>
       <find>header-back</find>
       <find>inSlider</find>
@@ -207,6 +193,7 @@
       <find>navbar</find>
       <find>'Open Sans', helvetica, arial, sans-serif</find>
       <find>nav li a</find>
+      <find>moment</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -234,7 +221,6 @@
         <option value="$PROJECT_DIR$/blog/database.html" />
         <option value="$PROJECT_DIR$/_posts/2018-01-22-RESTful API.md" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/_posts/2018-01-23-Object-Oriented-Programming-(객체지향-프로그래밍).md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-23-객체지향 프로그래밍(OOP).md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-23-Java8.md" />
@@ -275,6 +261,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp1.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
       </list>
     </option>
   </component>
@@ -284,11 +271,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
-    <option name="y" value="-315" />
+    <option name="y" value="-338" />
     <option name="width" value="2560" />
-    <option name="height" value="1379" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -305,8 +298,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -324,7 +318,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,7 +327,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="SearchEverywhereHistoryKey" value="blo&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;blog&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;.path&#9;null&#9;null&#10;header&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/header_two.jpg&#10;head.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;avatar.jpg&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/avatar.jpg&#10;index_head&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;blog_header.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/blog_header.html&#10;analytics.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/analytics.html&#10;b&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;index.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/categories/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="package-lock&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/package-lock.json&#10;blo&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;blog&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;.path&#9;null&#9;null&#10;header&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/header_two.jpg&#10;head.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;avatar.jpg&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/static/assets/img/landing/avatar.jpg&#10;index_head&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/index_head.html&#10;blog_header.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/blog_header.html&#10;analytics.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_includes/analytics.html&#10;b&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/_data/blog.yml&#10;index.html&#9;FILE&#9;file:///Users/lsy/suyoun/lsy09.github.io/categories/index.html" />
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
@@ -350,117 +343,6 @@
       <recent name="$PROJECT_DIR$/blog" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp10.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -607,7 +489,8 @@
       <workItem from="1517552621476" duration="111000" />
       <workItem from="1518484730378" duration="239000" />
       <workItem from="1518510201853" duration="74000" />
-      <workItem from="1519207907738" duration="3627000" />
+      <workItem from="1519207907738" duration="4349000" />
+      <workItem from="1520304626828" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="title 수정">
       <created>1515573062544</created>
@@ -770,11 +653,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519208401184</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="post 수정">
+      <created>1519211571612</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1519211571612</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117382000" />
+    <option name="totallyTimeSpent" value="118742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-338" width="2560" height="1440" extended-state="6" />
@@ -785,14 +675,15 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10007698" sideWeight="0.5031771" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32440478" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16741072" sideWeight="0.49682286" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32440478" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16741072" sideWeight="0.49682286" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14495632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14614774" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -806,7 +697,6 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -875,20 +765,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/sections/skills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_pygments.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
@@ -1092,7 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1107,7 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1122,11 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" column="12" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <marker date="1517464207402" expanded="true" signature="1605:1853" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,7 +1047,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1188,8 +1055,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-17-Java8-in-Action-cp9.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="28">
-            <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="36" />
             <folding>
               <marker date="1519209975484" expanded="true" signature="1554:1605" ph="{...}" />
               <marker date="1519209975484" expanded="true" signature="2174:2184" ph=" { " />
@@ -1232,7 +1099,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-03-Java8-in-Action-cp7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="13">
+          <first_editor relative-caret-position="30">
             <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             <folding>
               <marker date="1519210015660" expanded="true" signature="3737:3756" ph="{...}" />
@@ -1278,7 +1145,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-06-Java8-in-Action-cp2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="16">
+          <first_editor relative-caret-position="30">
             <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             <folding>
               <marker date="1519210333566" expanded="true" signature="3574:3671" ph="{...}" />
@@ -1292,7 +1159,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
-            <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             <folding>
               <marker date="1519210333574" expanded="true" signature="3867:4041" ph="{...}" />
             </folding>
@@ -1304,11 +1171,27 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-21-Java8-in-Action-cp11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <first_editor relative-caret-position="423">
+            <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1299">
+          <caret line="923" column="7" lean-forward="true" selection-start-line="923" selection-start-column="7" selection-end-line="923" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
