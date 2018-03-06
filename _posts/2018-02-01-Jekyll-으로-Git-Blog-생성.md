@@ -13,12 +13,14 @@ icon: fa-github
 ### Jekyll 이용 GitHub 블로그 생성
 
 > 사전준비 사항
+
 1. Repository 생성 {git계정}.github.io  **<sup>반드시 git계정명으로 생성해야 함</sup>**
 2. Ruby 설치  **<sup>macOS 에는 이미 Ruby 가 설치되어 있음</sup>**
 
 <br>
 
 > Jekyll 설치
+
 ```
 $ sudo gem install jekyll
 $ sudo gem install jekyll bundler
@@ -29,16 +31,28 @@ $ bundle install
 <br>
 
 > Jekyll 로컬 테스트
+
 ```
 $ bundle exec jekyll serve
+
+Configuration file: /Users/lsy/suyoun/lsy09.github.io/_config.yml
+            Source: /Users/lsy/suyoun/lsy09.github.io
+       Destination: /Users/lsy/suyoun/lsy09.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 4.348 seconds.
+ Auto-regeneration: enabled for '/Users/lsy/suyoun/lsy09.github.io'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
 ```
-- http://127.0.0.1:4000
+
 
 ![](https://lsy09.github.io/static/assets/img/landing/blogImg.png)
 
 <br>
 
 > Jekyll Themes 
+
 1. [Themes](http://jekyllthemes.org/) 선택
 2. Download
 3. {git계정}.github.io 안에 압축 해제 
@@ -47,12 +61,26 @@ $ bundle exec jekyll serve
 <br>
 
 > Theme 변경 후 에러 발생시 
+
 ```
 $ gem install bundler
 $ bundle install
 
 $ bundle exec jekyll serve
+
+Configuration file: /Users/lsy/suyoun/lsy09.github.io/_config.yml
+            Source: /Users/lsy/suyoun/lsy09.github.io
+       Destination: /Users/lsy/suyoun/lsy09.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 4.348 seconds.
+ Auto-regeneration: enabled for '/Users/lsy/suyoun/lsy09.github.io'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
 ```
+
+
+<br><br>
 
 ### Jekyll Directory 설명
 - _config.yml   
