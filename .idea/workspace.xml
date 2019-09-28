@@ -4,9 +4,11 @@
     <option name="SCOPE_TYPE" value="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="ForkJoinSumCalculator">
+    <list default="true" id="246c7869-705c-4c42-89ce-248a293af0d0" name="Default" comment="post java8 cp 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-26-Java8-in-Action-cp3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-09-26-Java8-in-Action-cp3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -282,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516865139616</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="post java8 cp 3">
+      <created>1569687773268</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569687773268</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +324,8 @@
     <MESSAGE value="post" />
     <MESSAGE value="foot 수정" />
     <MESSAGE value="post 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="post 수정" />
+    <MESSAGE value="post java8 cp 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="post java8 cp 3" />
   </component>
   <component name="masterDetails">
     <states>
