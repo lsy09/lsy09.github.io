@@ -3,6 +3,30 @@
     "data" : [
      
     {
+        "title" : "Java8 in Action : CHAPTER_11 - 2018-02-21",
+        "url" : "/book/2018/02/21/Java8-in-Action-cp11.html"
+    }
+    
+    ,
+    
+    
+    {
+        "title" : "Java8 in Action : CHAPTER_09 - 2018-02-17",
+        "url" : "/book/2018/02/17/Java8-in-Action-cp9.html"
+    }
+    
+    ,
+    
+    
+    {
+        "title" : "Java8 in Action : CHAPTER_10 - 2018-02-17",
+        "url" : "/book/2018/02/17/Java8-in-Action-cp10.html"
+    }
+    
+    ,
+    
+    
+    {
         "title" : "Jekyll 으로 GitHub 블로그 생성 - 2018-02-01",
         "url" : "/web/2018/02/01/Jekyll-%EC%9C%BC%EB%A1%9C-Git-Blog-%EC%83%9D%EC%84%B1.html"
     }
@@ -59,7 +83,7 @@
     
     
     {
-        "title" : "Java8 in Action : CHAPTER8 - 2018-01-03",
+        "title" : "Java8 in Action : CHAPTER_08 - 2018-01-03",
         "url" : "/book/2018/01/03/Java8-in-Action-cp8.html"
     }
     
@@ -67,7 +91,15 @@
     
     
     {
-        "title" : "Java8 in Action : CHAPTER6 - 2017-12-20",
+        "title" : "Java8 in Action : CHAPTER_07 - 2018-01-03",
+        "url" : "/book/2018/01/03/Java8-in-Action-cp7.html"
+    }
+    
+    ,
+    
+    
+    {
+        "title" : "Java8 in Action : CHAPTER_06 - 2017-12-20",
         "url" : "/book/2017/12/20/Java8-in-Action-cp6.html"
     }
     
@@ -75,7 +107,7 @@
     
     
     {
-        "title" : "Java8 in Action : CHAPTER5 - 2017-12-20",
+        "title" : "Java8 in Action : CHAPTER_05 - 2017-12-20",
         "url" : "/book/2017/12/20/Java8-in-Action-cp5.html"
     }
     
@@ -91,7 +123,7 @@
     
     
     {
-        "title" : "Java8 in Action : CHAPTER4 - 2017-12-11",
+        "title" : "Java8 in Action : CHAPTER_04 - 2017-12-11",
         "url" : "/book/2017/12/11/Java8-in-Action-cp4.html"
     }
     
@@ -99,7 +131,7 @@
     
     
     {
-        "title" : "Java8 in Action : CHAPTER2 - 2017-12-06",
+        "title" : "Java8 in Action : CHAPTER_02 - 2017-12-06",
         "url" : "/book/2017/12/06/Java8-in-Action-cp2.html"
     }
     
@@ -107,7 +139,7 @@
     
     
     {
-        "title" : "Java8 in Action : CHAPTER1 - 2017-12-06",
+        "title" : "Java8 in Action : CHAPTER_01 - 2017-12-06",
         "url" : "/book/2017/12/06/Java8-in-Action-cp1.html"
     }
     
