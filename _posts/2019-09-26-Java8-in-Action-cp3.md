@@ -71,6 +71,7 @@ Apple 형식의 파라미터 두 개를 가지며 int(두 사과의 무게 비�
 #### 3.2.1 함수형 인터페이스
 
 - Predicate<T> 오직 하나의 추상 메서드만 지정
+
 ```java
 public interface Predicate<T> {
     boolean test (T t);
@@ -78,6 +79,7 @@ public interface Predicate<T> {
 ```
 
 - 자바 API의 함수형 인터페이스로는 Comparator, Runnable 등이 있음
+
 ```java
 public interface Comparator<T>{     <- java.util.Comparator
     int compare(T o1, T o2);
@@ -158,6 +160,7 @@ String result = processFile((BufferedReader br) -> br.readLine() + br.readLine()
 #### 3.3.2 2단계 : 함수형 인터페이스를 이용해서 동작 전달
 - 함수형 인터페이스 자리에 람다를 사용 할수 있음.  
 BufferedReader -> String과 IOException을 던질<sup>throw</sup>수 있는 시그너처와 일치하는 함수형 인터페이스를 만듬
+
 ```java
 @FunctionalInterface
 public interface BufferedReaderProcessor{
@@ -174,6 +177,7 @@ public static String processFile(BufferedReaderProcessor p) throws IOException{
 #### 3.3.3 3단계 : 동작 실행!
 - 람다 표현식으로 함수형 인터페이스의 추상 메서드 구현을 직접 전달할 수 있으며 전달된 코드는 **함수형 인터페이스의 인스턴스로 전달된 코드와 같은 방식으로 처리**  
 processFile 바디 내에서 BufferedReaderProcessor 객체의 process를 호출 
+
 ```java
 public static String processFile(BufferedReaderProcessor p) throws IOException{
     try(BufferedReader br = 
@@ -198,8 +202,9 @@ String twoLine = processFile((BufferedReader br) -> br.readLine() + br.readLine(
 다양한 람다 표현식을 사용하려면 공통의 함수 디스크립터를 기술하는 함수형 인터페이스 집합이 필요  
 
 #### 3.4.1 Predicate
-java.util.function.Predicate<T> 인터페이스는 test라는 추상 메서드를 정의 test는 제네릭 형식 T의 객체를 인수로 받아 불린을 반환
+- java.util.function.Predicate<T> 인터페이스는 test라는 추상 메서드를 정의 test는 제네릭 형식 T의 객체를 인수로 받아 불린을 반환
 - T 형식의 객체를 사용하는 불린 표현식이 필요한 상황에서 Predicate 인터페이스를 사용할 수 있음
+
 ```java
 @FunctionalInterface
 public interface Predicate<T>{
@@ -220,7 +225,50 @@ predicate<String> nonEmptyStringPredicate = (String s) -> !s.isEmpty();
 List<String> nonEmpty = filter(listOfStrings, nonEmptyStringPredicate);
 ```
 
-#### 3.4.1 Predicate
+#### 3.4.2 Consumer
+- java.util.function.Consumer<T> 인터페이스는 제네릭 형식 T 객체를 받아서 void를 반환하는 accept라는 추상 메서드를 정의
+- Integer 리스트를 인수로 받아서 각 항목에 어떤 동작을 수행 하는 forEach 메서드를 정의 할때 Consumer를 활용할 수 있음
+
+```java
+@FunctionalInterface
+public interface Consumer<T>{
+    void accept(T t);
+}
+
+public static <T> void forEach(List<T> list, Consumer<T> c) {
+    for(T i : list){
+        c.accept(i);
+    }
+}
+forEach(
+    Arrays.asList(1, 2, 3, 4, 5), (Integer i) -> System.out.println(i)  <- Consumer의 accept 메서드를 구현하는 람다
+    );
+```
+
+#### 3.4.3 Function
+- java.util.function.Function<T, R> 인터페이스는 제네릭 형식 T를 인수로 받아서 제네릭 형식 R 객체를 반환하는 apply라는 추상메서드를 정의  
+입력을 출력으로 매핑하는 람다를 정의 할때 Function 인터페이스를 활용
+
+```java
+@FunctionalInterface
+public interface Function<T, R>{
+    R apply(T t);
+}
+
+public static <T, R> List<R> map(List<T> list, Function<T, R> f){
+    List<R> result = new ArrayList<>();
+    for(T s : list){
+        result.add(f.apply(s));
+    }
+    return result;
+}
+//[7,2,6]
+List<Integer> l = map(
+        Arrays.asList("lambdas", "in", "action"), 
+        (String s) -> s.length()    <- Function의 apply 메서드를 구현하는 람다
+);
+```
+
 
 
 
